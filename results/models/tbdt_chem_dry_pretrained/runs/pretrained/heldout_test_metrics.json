@@ -1,0 +1,25 @@
+{
+  "task": "Chem_dry",
+  "evaluated_split": "heldout_test",
+  "task_reporting_rh": [
+    0
+  ],
+  "task_heldout_accuracy": 96.61649127481017,
+  "task_samples": 7507,
+  "task_correct": 7253,
+  "all_heldout": {
+    "samples": 7507,
+    "correct": 7253,
+    "accuracy": 96.61649127481017,
+    "by_rh": {
+      "0": {
+        "samples": 7507,
+        "correct": 7253,
+        "accuracy": 96.61649127481017
+      }
+    }
+  },
+  "best_epoch": 139,
+  "all_before_after_tensors_identical": true,
+  "historical_model_tensors_identical": true
+}

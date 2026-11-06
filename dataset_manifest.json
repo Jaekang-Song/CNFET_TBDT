@@ -1,0 +1,1430 @@
+{
+  "file_count": 355,
+  "archive": {
+    "name": "TBDT_Dataset.zip",
+    "bytes": 3574931981,
+    "sha256": "e193690632e9ae4348790b4a30010ed4f9202ca0ca8c56e91554fdaf1fcca9d8"
+  },
+  "files": {
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set10_6_NH_100_50_1.npy": {
+      "sha256": "0db724492dfa045244693cabbbebf61cd666201bf542d7a4387e7c792f3c454d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set11_6_NH_100_50_2.npy": {
+      "sha256": "121518ebdeb5339956929f3bb9e6be9f133c36002356284652abd0ff5d9270f5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set12_6_NH_100_50_3.npy": {
+      "sha256": "2ed26c5167fc5bd6278be67a6a51251931c3a080c63eeeefa04770f06c61f07f",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set13_6_NH_100_0_1.npy": {
+      "sha256": "ddb43f880afe8146be0e5206d69d5d0000cedd145ceb7ac9b2c5f93fbbb535f6",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set14_6_NH_100_0_2.npy": {
+      "sha256": "c90192cf6f20815357a1bc85d0c2bdca357317a9a7a2ae749100e5e539ed0bdb",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set15_6_NH_100_0_3.npy": {
+      "sha256": "9954ed75d0e06bef893c6dd71475d0a3a80dfc5ea9b79639e44f104ff886b892",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set16_6_NH_100_30_1.npy": {
+      "sha256": "caae7a227ada71aeece18fd7367253c0130ae76da76acd1078417ab3918f7660",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set17_6_NH_100_30_2.npy": {
+      "sha256": "4e92330f9c740fd88a186443cb2e3056135c28a9780e8ddaa42281ad41e62268",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set18_6_NH_100_30_3.npy": {
+      "sha256": "c9002a47054a9993bc60bc3279135c1eda996abf38e4ced4c538fd47a1353294",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set19_6_A_500_30_1.npy": {
+      "sha256": "ef430c5a145e74aecec1a17d8ade63d2e1019d5899e3a5e02ed64203f1f15089",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set1_3_ND_1_50_1.npy": {
+      "sha256": "a0ccff85011ba6c6674d49932a0e045935eedaf4bd944c0eec9ff89cc4fd8365",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set20_6_A_500_30_2.npy": {
+      "sha256": "44d61325bbf256427f95b0e65c65dbf6cc63e5323248c4a94f838ce753283967",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set21_6_A_500_30_3.npy": {
+      "sha256": "26e55b1db6ad878ec0a186dc20fe6f74d989e494b6423aed89ad78fc625451ff",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set22_6_A_500_50_1.npy": {
+      "sha256": "fb36f8b419fdf9c3497878abc9bdecf4a894c5ed6f7eef2942938789a7469da1",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set23_6_A_500_50_2.npy": {
+      "sha256": "61121ade1260c546a9f938eb0c21376a2a964626cbca1fa000cdb15bda631f03",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set24_6_A_500_50_3.npy": {
+      "sha256": "8d62841e6f23788d0d5272ed302e5d1294a95e12329e8e32e018107a2667ea7b",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set25_6_A_500_0_1.npy": {
+      "sha256": "47c5a8b3b07a31b512de4764f62686b7cf03c110bb66106ce76a1fd40bcf3100",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set26_6_A_500_0_2.npy": {
+      "sha256": "3cd40dc5a7e6f89784dba3d0f37b4b292b2f98289b26d0fc05a2cf8cb6a4ecf1",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set27_6_A_500_0_3.npy": {
+      "sha256": "51dffd613ef3d7e889c664da583101f6fdb40ffacff628c4205b22ea4311faa4",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set28_6_CD_2500_50_1.npy": {
+      "sha256": "f992da86151cd642ac247895f22b1b7345fcf25849333670b6b9d92881f9777c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set29_6_CD_2500_50_2.npy": {
+      "sha256": "ca6d0358c5cca463546ce0329c81139e380a762da7ad92958c3d37ab1fa569e5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set2_3_ND_1_50_2.npy": {
+      "sha256": "99d00170dc6c9b74ba2e0581801599deead620d59250b63c9c292f1433823d53",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set30_6_CD_2500_50_3.npy": {
+      "sha256": "5c979f5c97c8c213c090804865193205246257437d84db9534a407af1560bf6c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set31_6_CD_2500_0_1.npy": {
+      "sha256": "35fa374d6b1aa6de5e053114b8f824e2ca11f418a742df15607b60d5085af6c5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set32_6_CD_2500_0_2.npy": {
+      "sha256": "562eeff1154f7781eaee1ed4b330e0b8ff75ae13415de9a8e939edc784c29d92",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set33_6_CD_2500_0_3.npy": {
+      "sha256": "939f8ed8ef4c4983284a8a4bac336b55bddc02933b43a2fff4a6627e8a5e4f54",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set34_6_CD_2500_30_1.npy": {
+      "sha256": "e05c20916983a3163562472639ea2fe34a3f78c1acf937b868c1ce026d5ad8d2",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set35_6_CD_2500_30_2.npy": {
+      "sha256": "a38fd62de0a6edd5a1644513b598cb0e4c8f682717193bfd927cef66e53b62fe",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set36_6_CD_2500_30_3.npy": {
+      "sha256": "5118cb22af193b858137a2e39811cd4dfbf7e0edb3fa03aecb63ec734803043a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set37_6_M_100_50_1.npy": {
+      "sha256": "fdbe6aed022c49c16d00d45434fae98a32f8c01fe57392cc5b789da8ab73d029",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set38_6_M_100_50_2.npy": {
+      "sha256": "78eec83bac645932e7b03eae256e34cb0da6acb6cb1b7e2ca4a6dee0f5434d6a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set39_6_M_100_50_3.npy": {
+      "sha256": "4c810ec5e636d9035db91e7a04e3a019eb5601b3e43ba889a6489b976901703b",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set3_3_ND_1_50_3.npy": {
+      "sha256": "08aff4cc8a17a1ad5f8f02f56bccaa5b402f30dd496425a01416c4d23a3eff29",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set40_6_M_100_0_1.npy": {
+      "sha256": "7e094e98afbf30bf89cd74d16e8a94c53c94c0fc625076e08a8a108e4767821a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set41_6_M_100_0_2.npy": {
+      "sha256": "c5b262d35bd77e0acc34f8ad5685ef5c24d84829a5d310fa0184337d721494a8",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set42_6_M_100_0_3.npy": {
+      "sha256": "cad9958b87e6da86f8d771c08560f14e74e927a6e361511a22658d806662d30d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set43_6_M_100_30_1.npy": {
+      "sha256": "615ef89a74710fc4463bd4e1f36e706b8003f42e0a4f5dcf6d82106d7b9edeaf",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set44_6_M_100_30_2.npy": {
+      "sha256": "e6ed469286bb7ce66f3d0d72fbbc8ebd267e5bf55f70cac3ed5e581c8b7484de",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set45_6_M_100_30_3.npy": {
+      "sha256": "ca8bdc93746fa90b4965216e547ca8665c23f18b1450816c247379e0ebee0361",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set46_8_Pr_100_50_1.npy": {
+      "sha256": "a491a63eb166ef7d69f8842067e0d5d331508eae3de70696adb6e416ffc494e3",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set47_8_Pr_100_50_2.npy": {
+      "sha256": "0669c4a8d99f3d137f3dd52de6157dbffa429ef24cc4e04c5976ed4894080621",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set48_8_Pr_100_50_3.npy": {
+      "sha256": "b88a67124cbacab9d76aeb857ced65d74d9a9a6c7a21d28cc31fb9f0bd48e4a3",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set49_8_Pr_100_0_1.npy": {
+      "sha256": "6477f4ba318b1e9624bd8d76a9ed24b62426d8ba38efd5f5e9bee8ab4da1a681",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set4_3_ND_1_30_1.npy": {
+      "sha256": "598a912f4d7b199c4442eedf680835154b621da2907b71970733d3693825650c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set50_8_Pr_100_0_2.npy": {
+      "sha256": "330d22ee5c99c7f1110b8848a19bf0588d2313f4650b7cb4df4bed921dd0aaba",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set51_8_Pr_100_0_3.npy": {
+      "sha256": "2b526ce1f2dc29c041d8ba7d5e5901d9b970488216d99aae92631f4118577f5a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set52_8_Pr_100_30_1.npy": {
+      "sha256": "bea1704fd7c50b14f2a1470f119237add1618ad51e0aa24bde3a86f23f8f771c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set53_8_Pr_100_30_2.npy": {
+      "sha256": "1dcd022aafe71ff251d1727c119efd62e2ee70ec0f959510de018d990dde6ae1",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set54_8_Pr_100_30_3.npy": {
+      "sha256": "e9b075b16c1824dd54daf957832197b968534345f893b49045fa4e73cd88d08a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set55_8_P_100_50_1.npy": {
+      "sha256": "5deaa9b557ec91f76efcb4cf0f516cb918b39f4eecb6daf300fd26071492807d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set56_8_P_100_50_2.npy": {
+      "sha256": "03b8a171020198f4777c3761b83bf4cf6ce69b03b08d48fbba4093c512395d12",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set57_8_P_100_50_3.npy": {
+      "sha256": "da163763a07b14f1e5e267a12d6832de99ebb175260caff3b4a812cb31fef2c3",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set58_8_P_100_30_1.npy": {
+      "sha256": "838771672c0b6525b4f6690c29a39c7299597d474ff60f8d89eaced738f700ab",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set59_8_P_100_30_2.npy": {
+      "sha256": "d80c446da16b8dcd3c981042ba419858ee583d6e24cb89489132a2e406d1a2e6",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set5_3_ND_1_30_2.npy": {
+      "sha256": "df5a766fb48137a3dd256b407b3e8758edbfe21c4b538fff12838a414dff2c93",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set60_8_P_100_30_3.npy": {
+      "sha256": "13179774a3461d56ef4a5ac29a507fcd1068737b798b47a033ea151813115eab",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set61_8_P_100_0_1.npy": {
+      "sha256": "2bb4de8b366985b1ed807342ee8b10f09e9709eac75ef9854f01026aa7c0e178",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set62_8_P_100_0_2.npy": {
+      "sha256": "7d3cf0dbc0bfb9ff6043f89bfbf5b97ca4f91ca86b970570e2cb718d5294676b",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set63_8_P_100_0_3.npy": {
+      "sha256": "52bbf41ca2eb805c60ca249db01c68ed2eebb574fef04593020d6f8871cc4ed1",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set64_14_HS_10_30_1.npy": {
+      "sha256": "c373d6a3dcf07dcac72e9dbc09972df41de1f086a1e3d78b2114d757ebc46c15",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set65_14_HS_10_30_2.npy": {
+      "sha256": "8cff2f1e54dcccbfcca850ce6b82bbd4f957babe5614dcad21f1b9247a3fc388",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set66_14_HS_10_30_3.npy": {
+      "sha256": "6944a62ad1ab42ce737298449e8dd7b9ca373ccb8424f02b1059b383fe7cd250",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set67_14_HS_10_50_1.npy": {
+      "sha256": "05b81d48a8b473ee913b632858f9fe84c5d6d1d6d70d8281bd3b71909aef8632",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set68_14_HS_10_50_2.npy": {
+      "sha256": "be5056e2b0ccc79ed536a29e22b29873d8eb6f881ab84683d11fb4be0d91cc46",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set69_14_HS_10_50_3.npy": {
+      "sha256": "96a8eef0d2bc8cf58c54042305f7967bf50aaf66693fe50519cad6e9323aeaf3",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set6_3_ND_1_30_3.npy": {
+      "sha256": "74e35d1762ba7213ab824340e36db0570616d463f6d05c0c7bc0dad0b7106f87",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set70_14_HS_10_0_1.npy": {
+      "sha256": "32f8d64677d8f6c8d5d02a21f656c4f107a0af92ba2d7ea20261b5951752d9c0",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set71_14_HS_10_0_2.npy": {
+      "sha256": "8c7ba241ae33daf71c33a216808656a5c430eb8a2db4d34ffa5f2bd785a0d5dd",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set72_14_HS_10_0_3.npy": {
+      "sha256": "8006d94b722afb9814aec5b507783ac46cb7640fe607567fb6d3eeed2a37bbb5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set73_17_H_500_50_1.npy": {
+      "sha256": "f311ff6cd12856f2babe3db0c86fc22cf4fdcc1a2d39c6fe618d6bd334fda886",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set74_17_H_500_50_2.npy": {
+      "sha256": "99730e7ffcc0594849b5890f1570a10ede2c700597757502413948ac826d85bb",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set75_17_H_500_50_3.npy": {
+      "sha256": "9ec30583fc078f8f777efac38472e4c9a355ba58bf69a227889c2f3963ea316b",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set76_17_H_500_30_1.npy": {
+      "sha256": "b2d0c943cda9e0cfefa6bb45d24e515ef09ca66b843311f512c76e7706e6a508",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set77_17_H_500_30_2.npy": {
+      "sha256": "841a566c6308d39b6f9c71f47b564f891e4d42b67d478b33fe85137edb366aa7",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set78_17_H_500_30_3.npy": {
+      "sha256": "a26bb7fd337423608b8baa92ad8fe53dafb80c7ac3f49cd3d65fa98cdd787cb5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set79_17_H_500_0_1.npy": {
+      "sha256": "733e78d41574af0ee544f91882928311f30666c0640c4dce78f8d906050ac08c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set7_3_ND_1_0_1.npy": {
+      "sha256": "598a912f4d7b199c4442eedf680835154b621da2907b71970733d3693825650c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set80_17_H_500_0_2.npy": {
+      "sha256": "ab45378865da41bfa6d6ae2219ff3edae3664ebf48927244decc7b15198099ee",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set81_17_H_500_0_3.npy": {
+      "sha256": "e2634ba4ffdbf8d6ec800b94362d4d2e511b096203d6e50257652beb7bed96ec",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set82_20_B_500_50_1.npy": {
+      "sha256": "833551738a688889972ed684a2141aa02c472b8e4d8a5a73f284706d5fc8e683",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set83_20_B_500_50_2.npy": {
+      "sha256": "0edbcb5ace6005e1f1986dc36be1833723cf1a3a50f0467f1d3cc0c214c80fb2",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set84_20_B_500_50_3.npy": {
+      "sha256": "a0521512037463aa8f0e4c230808cf2d93bf8813eee2c8c0add5d81feca898e3",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set85_20_B_500_30_1.npy": {
+      "sha256": "23e8df8adf13132ff34d84eb0b8c7cf75c376b1d7465f6a84b6c3240160123fa",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set86_20_B_500_30_2.npy": {
+      "sha256": "478cad4918c196ac388ed85a4d20f3ca2c089c18f4124641a34a952b2ac558e6",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set87_20_B_500_30_3.npy": {
+      "sha256": "c4c54d02bb72902010d47e87907033f6f92861689fc43587434274263337cdd7",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set88_20_B_500_0_1.npy": {
+      "sha256": "e3d5ff90f2998c059d07857ccfb05b939b418eaa36c1324c3923924c4ce0b557",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set89_20_B_500_0_2.npy": {
+      "sha256": "c013fb5941f19324e1c96f814a8ddbca66e4629c7845ec6f5ecdbc5ee830cdbd",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set8_3_ND_1_0_2.npy": {
+      "sha256": "df5a766fb48137a3dd256b407b3e8758edbfe21c4b538fff12838a414dff2c93",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set90_20_B_500_0_3.npy": {
+      "sha256": "3af2fbb9607eeb97815fe17cf95ae8adcd14612230e0ac5e4780ebc55a6dcf9a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/heldout_test/Set9_3_ND_1_0_3.npy": {
+      "sha256": "74e35d1762ba7213ab824340e36db0570616d463f6d05c0c7bc0dad0b7106f87",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set100_11_Pr_100_50_1.npy": {
+      "sha256": "bd52117d72c366e68db85aa6d1dee5d7163795ae28ae13bad4d50e34a57aa998",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set101_11_Pr_100_50_2.npy": {
+      "sha256": "ee73d3c617c6dad1007e53dc2032a11a99cf2a88bf6d2db5b467551a690e5d4f",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set102_11_Pr_100_50_3.npy": {
+      "sha256": "05956775a208c8b1ee09804603c8d9652a89eddadc6b0090921bd42327111374",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set103_11_Pr_100_30_1.npy": {
+      "sha256": "9414b09d1f05fb204143a522505e2782553fa859cf7a67f3a6a4fff3cd52fca6",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set104_11_Pr_100_30_2.npy": {
+      "sha256": "174ac2d10728cd1cbf6ec4963e81f8542183022ee2468494721a16830be88f22",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set105_11_Pr_100_30_3.npy": {
+      "sha256": "877c47b8f0d2b8b7eaedc8639a2748d83a5e041a40e4bf469dfcd979456f1b15",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set106_11_Pr_100_0_1.npy": {
+      "sha256": "96b8319f243f2d261e4f76428bfd394d6a11c564ccf94c48dc6d98cbfd95ea50",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set107_11_Pr_100_0_2.npy": {
+      "sha256": "086cb72b3046c907d8dab4b6e6139fecb826527763d8f1923b5ff4290f1942b9",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set108_11_Pr_100_0_3.npy": {
+      "sha256": "7da58000678ef9035a0d50ac468e6934f74dc82e5e7ffbd83bf004b5f8486c2c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set109_9_P_100_50_1.npy": {
+      "sha256": "f80b511e08c1866962acb1dab85647487ecfe5a807f802a4da60fd5ee0ed98d6",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set10_2_ND_1_50_1.npy": {
+      "sha256": "4748609dc66638897d6d3353923d873f48d25695c632525e4b81312d22c1c308",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set110_9_P_100_50_2.npy": {
+      "sha256": "9b28b58cfc037d69e781e5420ef58fd7f24adbf028c8bb2fbaf271a2f1ccd388",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set111_9_P_100_50_3.npy": {
+      "sha256": "189f24ecd6c5f8e524182ceb6039e2ab2f65c6c9ab63cbf62daf71ab746d64e9",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set112_9_P_100_0_1.npy": {
+      "sha256": "22fcee402e0330f404af5c64cfdf7bd4c7debd5e15c7e6a2faddce3efe9808de",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set113_9_P_100_0_2.npy": {
+      "sha256": "48638be0651dc8e35656d589ca7e8d5a5e3fc63df5fda39c916be3ef971d2677",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set114_9_P_100_0_3.npy": {
+      "sha256": "fe74e8ecdda510c31de251882ba3f4e36540696f138bfff1bb817a73cee91741",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set115_9_P_100_30_1.npy": {
+      "sha256": "1671ffc2a510a9b44e59c20f8bcb5e88e1ab171ef2ae99f30ab59c5ec0c9b1e1",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set116_9_P_100_30_2.npy": {
+      "sha256": "a552ce8e784c6379ddd2f408d64a353c84ec7b9b3de67e9e876609e4423827d7",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set117_9_P_100_30_3.npy": {
+      "sha256": "4868ba28909dd45fb18444a553328668664088185c2b065fd776b56512b09141",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set118_10_P_100_50_1.npy": {
+      "sha256": "814255410000774142f3f0d1e667068a16796d968c2dc71074bedb4837678072",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set119_10_P_100_50_2.npy": {
+      "sha256": "5ec1027441b6a2252165f5a984613e65486350ca765818a19af1deed47db6061",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set11_2_ND_1_50_2.npy": {
+      "sha256": "5a2fd5b7fb6727e93d958304fd034d87eb3e67cf6c2fcc1fd04a1e554e9189b6",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set120_10_P_100_50_3.npy": {
+      "sha256": "15b04b4c3b8269028c55b29e869d86aede9341c0a5020f0c8f32e0e199382731",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set121_10_P_100_30_1.npy": {
+      "sha256": "965e79e915b2941da7537d72c2ade372e83e53bfb49afa959fe2d85f5944ea80",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set122_10_P_100_30_2.npy": {
+      "sha256": "f9b19b777d7cdb39bcd7408a9c1b0a0649296d101f496117817875f08109bb24",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set123_10_P_100_30_3.npy": {
+      "sha256": "ba3a35051e6d88ec330fdc48b013d7e1df932d388038cd23f38e1bc0c94a5a8c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set124_10_P_100_0_1.npy": {
+      "sha256": "8b5594902ad7779edf537b2788aaefda98ca21e4a80c94a61b75c9f3ef284fe2",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set125_10_P_100_0_2.npy": {
+      "sha256": "6a76dec41922d3071a14d3b004ce667feb8a94a9c8f204c77308823a08f68724",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set126_10_P_100_0_3.npy": {
+      "sha256": "71c045ec576d947560d28d6706fae78dd3d882fcd4eeaa568b726dd7bb02532f",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set127_12_HS_10_50_1.npy": {
+      "sha256": "9c27e8d9ee1f7ccddac5c6a37d04d9be50fbdd302bb45ea6e62c00483d1bc5ad",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set128_12_HS_10_50_2.npy": {
+      "sha256": "4e756f6264a615afb4fceacfe5d1bedb5a351b19ac4e88e22959053c205835f3",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set129_12_HS_10_50_3.npy": {
+      "sha256": "db2de73eff3d1fa3985caf707a23e4ebef3ad6b188993c6efb6a54ae6d849aba",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set12_2_ND_1_50_3.npy": {
+      "sha256": "a31cb442cada000c325c1e17e439e5cf97aee00b905d1fa17be544c81aea6a36",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set130_12_HS_10_30_1.npy": {
+      "sha256": "206ec93ac5edf288e595845b49f32bc6a92ddcba66e128fda6024676d0c417ee",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set131_12_HS_10_30_2.npy": {
+      "sha256": "1431a6983b9f06a34cfcc394b602fb8d10e2dabf44a3fac571067d54ba06ce6d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set132_12_HS_10_30_3.npy": {
+      "sha256": "5561d6527ef34f6856c71beae77e73529a54421a0c435032945eabcedb1d6bbe",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set133_12_HS_10_0_1.npy": {
+      "sha256": "1cd2ed48d663185fbf0182410b60ccfe6039f541dbc3a4ed150aedff04db2169",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set134_12_HS_10_0_2.npy": {
+      "sha256": "eb61e831d058c968e0768c7f8b089e1a7c4baae796219e14ac968eeac4037d0f",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set135_12_HS_10_0_3.npy": {
+      "sha256": "a958b3b001ea7fa61f92652951b8ccdee2e97cb30011c7dbc5f38bcf410a1166",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set136_13_HS_10_50_1.npy": {
+      "sha256": "4afd7a4308c11144421603bdc51d94b9e058fb7b88da774ae4b5cf5322a8a1f9",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set137_13_HS_10_50_2.npy": {
+      "sha256": "78c193fd498c30277ebad70ac6a8ba198aa7e3c721f7a339fbae4ce3d32db485",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set138_13_HS_10_50_3.npy": {
+      "sha256": "9392f7c5dbf3a1cfdf17e0b63030f4be371b8c28200e17c8e279ffda931eeca9",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set139_13_HS_10_30_1.npy": {
+      "sha256": "bbca1d5b7fbc5ce62bc6d3a3086ab183f07f2318805e38e4e185abee1d4e6348",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set13_2_ND_1_0_1.npy": {
+      "sha256": "46331c64b5c94efa4035a7b7de34914b19afc225063400c9c6ecd65f14b44f5d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set140_13_HS_10_30_2.npy": {
+      "sha256": "9302b4d89ad2c0a2c666cc21a5654c7e562b5c3745d25cb0eb95e7e1fb269765",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set141_13_HS_10_30_3.npy": {
+      "sha256": "35bdbde366fd333adfb70441eee065815e38832c0833000ecdd674702e6434a1",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set142_13_HS_10_0_1.npy": {
+      "sha256": "909b0cac7269c004620a3522a1e68272b1157f494fd8b97f8266840acac21247",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set143_13_HS_10_0_2.npy": {
+      "sha256": "b0e276dc019e3725884a19b112b8ed4efdbbe65a9c49ffc7c70a1659961fbd75",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set144_13_HS_10_0_3.npy": {
+      "sha256": "f75af18be3cdaeb2735b3499a6ae14810a9a384e67c87c579ec00a9bed8c1677",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set145_15_H_500_30_1.npy": {
+      "sha256": "0e6c2bf20de05fb014c54b1593722b7636281ae1900f46af3b3ed49e292f1288",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set146_15_H_500_30_2.npy": {
+      "sha256": "e0aea7460c48e380825bcf7fcdfe7fddac0d66e87053ebf023425f2b3dd1e708",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set147_15_H_500_30_3.npy": {
+      "sha256": "69b3036e837d8cf46ecd9d59f8aaea39be7574067e15fcd94d3eca49885fd98d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set148_15_H_500_50_1.npy": {
+      "sha256": "ff31b9940ac89b95019a54725d9785bb2673d60f43cca8a47c25f984a397ea0a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set149_15_H_500_50_2.npy": {
+      "sha256": "407c778b05a2e83a68bf12f0b766ee1addec2638786fbbc833fc92835f9e38a2",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set14_2_ND_1_0_2.npy": {
+      "sha256": "15475591be82bf6e0dfcdf8e11f2ea5e09b7a26fa7f606fdb0c197d7527981e5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set150_15_H_500_50_3.npy": {
+      "sha256": "7e946ca987eb4aca42ecb753f928e22e2a71d0a7d32126e6fd091a3e123a5b11",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set151_15_H_500_0_1.npy": {
+      "sha256": "bcd726cd2d0235936747fd28344e4d7695a05f071a4e706ebfbdbd4d916b686c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set152_15_H_500_0_2.npy": {
+      "sha256": "bbac2580974e1987060693a912b060076fa30ad2c5b52f3867906a06f15c56a0",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set153_15_H_500_0_3.npy": {
+      "sha256": "8172db431d23cadfe90e53bcfa3ce4fb91a1cf619a2287383dbe6c706c79a57f",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set154_16_H_500_50_1.npy": {
+      "sha256": "d2cb481e40f4391ae253bebca27a98539894de7de4ac5bafd3837349e01f5c71",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set155_16_H_500_50_2.npy": {
+      "sha256": "75070343f72b11212f946fe53310f06b340b8d30c17d067c4019bb19e5f410bb",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set156_16_H_500_50_3.npy": {
+      "sha256": "6c77125074c9846b12f35a7e13239b22f94eca762af01fde8ed357865b3f580d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set157_16_H_500_0_1.npy": {
+      "sha256": "e0611827d195ebd146e80f87ea10649d1f6ab515f58fbb67df33368340b9fae5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set158_16_H_500_0_2.npy": {
+      "sha256": "59910cb7976376579ce81dd9b0ea43dc6b4c16ed3ccc61ef0aa648259a742cbc",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set159_16_H_500_0_3.npy": {
+      "sha256": "1d5fe0ba74a8c305d8b51b619562e720b7f22963831aa9f2724e78594230ac6c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set15_2_ND_1_0_3.npy": {
+      "sha256": "f6b69ad3e71e9413fb53143eeb7328dc16b0d51a2ae42ed291eba3e5a218a902",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set160_16_H_500_30_1.npy": {
+      "sha256": "b09c94abdcbea9bb9f18bab0d99fdb1f70faae4f5b40c8f5793747a7ee070f05",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set161_16_H_500_30_2.npy": {
+      "sha256": "76a70c952b9df3447a7b97c801a107ecfbe96f9a6c0d4ad39ce442eb3b674dd5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set162_16_H_500_30_3.npy": {
+      "sha256": "d8ca3ca36872cfe8b6697af7f16dda1ea9e0ce2d4979940b78c7cec51ed7fcb8",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set163_19_B_500_30_1.npy": {
+      "sha256": "bdc90e989995bbfac7f736bf02a472de4ae845c05a507fff54b2a0486e5ef73a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set164_19_B_500_30_2.npy": {
+      "sha256": "7096a5c4816153d8b9e9822dc852d2610601f5696ae90ba9c68d378e4f6a2c6d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set165_19_B_500_30_3.npy": {
+      "sha256": "2f28ba4c285f4b259baa84a77e44c884c37566ceb4f259df282a317a4e89dc7a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set166_19_B_500_50_1.npy": {
+      "sha256": "10e700653d222d6a24c19ced369db4863149ccc598040df17495b7097396fb1a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set167_19_B_500_50_2.npy": {
+      "sha256": "4497464bef093e4c87548005c26dabf4adf1fc1827000e7b56107dc3b53e6ce7",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set168_19_B_500_50_3.npy": {
+      "sha256": "2b3803918c447690581e297bb2b983a53465b43f308195825f621756724e47a9",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set169_19_B_500_0_1.npy": {
+      "sha256": "02b8d27ea3de41b2b9b0a00c4c92891170b0be840e69411d90ba7198e637e061",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set16_2_ND_1_30_1.npy": {
+      "sha256": "fe0d0ff9e428191ba68212ea7fa93aef3f3bab9647ec09776bdacd36f11da13f",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set170_19_B_500_0_2.npy": {
+      "sha256": "886e18f11c20396eadf49aab8829eada80abe975b474a4191ab10763f9083d16",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set171_19_B_500_0_3.npy": {
+      "sha256": "8f287e3d8820483c6d5308b75206e1ae81317a8e92a8df54e32c09344e019cf9",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set172_18_B_500_50_1.npy": {
+      "sha256": "e3db131bb65c22c64ac52f39cbc8bcc6d4e45c6a994e120144cb11e5f48cb767",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set173_18_B_500_50_2.npy": {
+      "sha256": "d45e8e28a6271e891ca1966fa25bbcefc14a59008651405415e8e931ff250244",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set174_18_B_500_50_3.npy": {
+      "sha256": "598134c4e98db3f2af9e6965a766ecd756ea7a2a50f6ae80f8be08876225c3fe",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set175_18_B_500_0_1.npy": {
+      "sha256": "9c688cce196fe240544141ab8f8e7afd08fe02e556bbb4accf2ea64088271b1a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set176_18_B_500_0_2.npy": {
+      "sha256": "5e267dc18a5d02a35798a4e6b45365ad4efc44b569cf981cfdfae5403ab2b0b5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set177_18_B_500_0_3.npy": {
+      "sha256": "74b2d4896e6b2b07dbfeb9f06a6f1d626e90f55900959276b206cdc86f70d378",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set178_18_B_500_30_1.npy": {
+      "sha256": "4031fab2e5a7504c6c51ca46e32ef10a0212318adb10dfd75f2346149a3d87b0",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set179_18_B_500_30_2.npy": {
+      "sha256": "d56ddcc12b8724416b90a8d9639afbd8b307b9504906e393b3a24de115ab8fe2",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set17_2_ND_1_30_2.npy": {
+      "sha256": "7880f1e1cf9111a043a62654d6e0469d35046393e69d65afbb2c46c88afb8b92",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set180_18_B_500_30_3.npy": {
+      "sha256": "f18ca7da39d1225ed929a9303ddf8b5250adf731fe5b21c9f78cb457a524ee27",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set18_2_ND_1_30_3.npy": {
+      "sha256": "4b5365d55dbd64f589643df9646209fd13effb81cc1898b5de1c65a6a4df325e",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set19_5_NH_100_50_1.npy": {
+      "sha256": "fd1537330707b78347b4b31f74458aa29d74a6378198bedb45e18cb737db8172",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set1_1_ND_1_50_1.npy": {
+      "sha256": "e0f47a29bb820e9004ce2f854d21fbb7bd72ab4788aaf16a5dd2dc8a11bb0718",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set20_5_NH_100_50_2.npy": {
+      "sha256": "53ece030cc9f30793f5462c6337e98cdf6ddc21c0f490efab892ae3ea43083ed",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set21_5_NH_100_50_3.npy": {
+      "sha256": "b7760a3a889d461e514d916a80608673afed70c3d897d020ef1f45f09de204a1",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set22_5_NH_100_0_1.npy": {
+      "sha256": "0cdc1bd97fcb53f5343b09e19172f27329f0eb749ddde65747b012db285fc010",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set23_5_NH_100_0_2.npy": {
+      "sha256": "adfca65d7393f6f45ba3d121c45dff9bd7c5a62f48082f4f6df623be057675ca",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set24_5_NH_100_0_3.npy": {
+      "sha256": "3cf3e915e720b31f4ffa526c75a273e2b9774920861afdc540fc6c33baa0c690",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set25_5_NH_100_30_1.npy": {
+      "sha256": "5201c927a23b190bf712f576e990080df616d63ff4bc0563b8810cf92949a65d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set26_5_NH_100_30_2.npy": {
+      "sha256": "ba2adb82125fcc031dc3a76d289c23d4e167ff3930c13e72f8066d72afc57be7",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set27_5_NH_100_30_3.npy": {
+      "sha256": "c0a7f196d2ccd0a54c50b091d35cd0fdacef73a3b28dad99d2b62e153a381289",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set28_4_NH_100_30_1.npy": {
+      "sha256": "5efd5b5326ea56d76f270a94aa2109cb6023f2202f26623f73678ef12c892d95",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set29_4_NH_100_30_2.npy": {
+      "sha256": "c3e9d7454a11dd957bb05092e4d5e380fa29ff59041f2ceefee847a01b7707d4",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set2_1_ND_1_50_2.npy": {
+      "sha256": "8645be05e02180ffc634eb7eb72812d99830849a7c0a9ff15895e9aaf38b0cba",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set30_4_NH_100_30_3.npy": {
+      "sha256": "a9a5f68f7e1d08e3af3d25f9829db478c5441e9cf9ace8d66c5188a14766d32f",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set31_4_NH_100_50_1.npy": {
+      "sha256": "e6227dcbe9f4a95efee35792d3a84844d6cb77f38f4c94e63c8ec5079edb20a4",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set32_4_NH_100_50_2.npy": {
+      "sha256": "7a088db9d84ced8aec38f3ce04545d596915e53055f0b60028b03cf33cfe4db5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set33_4_NH_100_50_3.npy": {
+      "sha256": "dc081a7b6f5b6410ba84e3e92c51e2b23a785b2fb0efec7cc5783c10d986d900",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set34_4_NH_100_0_1.npy": {
+      "sha256": "e6227dcbe9f4a95efee35792d3a84844d6cb77f38f4c94e63c8ec5079edb20a4",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set35_4_NH_100_0_2.npy": {
+      "sha256": "7a088db9d84ced8aec38f3ce04545d596915e53055f0b60028b03cf33cfe4db5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set36_4_NH_100_0_3.npy": {
+      "sha256": "dc081a7b6f5b6410ba84e3e92c51e2b23a785b2fb0efec7cc5783c10d986d900",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set37_4_A_500_50_1.npy": {
+      "sha256": "d858bca6ccdd70e4799a2000a7af0575584665146dd4b359c6751296c56bb60e",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set38_4_A_500_50_2.npy": {
+      "sha256": "f731715849d913d36fcaaadd5773ca82dc7bb089006eaf5fa41cb14f61192cbd",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set39_4_A_500_50_3.npy": {
+      "sha256": "ebc0d89b9d9a5a1ef0d6c00a038200c2597568ccc42d5db7d7c75f8738fed4ae",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set3_1_ND_1_50_3.npy": {
+      "sha256": "aa691a090a95f517d0d18af07dc42ecaec129d124551f23adb4712ac86d14449",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set40_4_A_500_30_1.npy": {
+      "sha256": "270723e794ed2a2e0e9f13330d0c41e17cef6a826dd83a2ed9601803b9c5577a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set41_4_A_500_30_2.npy": {
+      "sha256": "89bf133059296e33d6f9f28481035670e6a78f823685c943f0d90e294d13b982",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set42_4_A_500_30_3.npy": {
+      "sha256": "2171a0008f0f9731be1f0198b6cfb92ef546c43c96e03d9122986ea47d576b63",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set43_4_A_500_0_1.npy": {
+      "sha256": "cdbb1d6ebe63508ed8dd2ec66cb4edd889043a961ea32baf7f2e20444a85f13d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set44_4_A_500_0_2.npy": {
+      "sha256": "f3a7acf9270bc233e6c736d3a9785d5c39e9e5c815260ee983dad80b61eb99b5",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set45_4_A_500_0_3.npy": {
+      "sha256": "6d75c368e221a6179b5e65872a19ff73e8f362f97e7a3277f96efc3b5a3d64f4",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set46_5_A_500_50_1.npy": {
+      "sha256": "d2e5d8e6cce342d9b069a35bc1117d66d4152a355e448356771302855e2f8de7",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set47_5_A_500_50_2.npy": {
+      "sha256": "b54caad08967bab9f5d6582f93e4cdfafaedd4adef0f1f3145a831d1d4dc8a96",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set48_5_A_500_50_3.npy": {
+      "sha256": "76a828403853934b171ccca4246ce6c6746f2580541742e12260806fe5f80f58",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set49_5_A_500_0_1.npy": {
+      "sha256": "e4acb58de80f8736c4e67c69b3134517637214304ad46a38f4b47561357c33a9",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set4_1_ND_1_30_1.npy": {
+      "sha256": "974ce2a3829a17fb79652a4c6bb91e04779528864c49ae0200f8f3a19338d569",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set50_5_A_500_0_2.npy": {
+      "sha256": "67d1b899595856cb979443eac695c607814e9dfa3c81dfb077e69f1e87921d71",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set51_5_A_500_0_3.npy": {
+      "sha256": "bfa41a6dc56328c0b9aa43985c4d1cc9f83aba619136c521aaae6b0eed72a62c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set52_5_A_500_30_1.npy": {
+      "sha256": "7d9bad8e92718aa4d5d6ff78d4743e8498f79ac0439fcc6a2e72623f219f4158",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set53_5_A_500_30_2.npy": {
+      "sha256": "0d61073bbe70226397d3f852c27b0960614d2fde4080ed4ec7be14f4c028be77",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set54_5_A_500_30_3.npy": {
+      "sha256": "69ff4c7d86bf94887fb3731916ec8798d33f85de0309996cd27df5e76ac239e6",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set55_5_CD_2500_30_1.npy": {
+      "sha256": "82ca4366f9e26e5af68670365636ee7c91098bdeee05e723b332a73deed1c9df",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set56_5_CD_2500_30_2.npy": {
+      "sha256": "7affa36c5fe8e5634a0fb2701f0f2986f29c11c53c9c249df180e2299ea9ffda",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set57_5_CD_2500_30_3.npy": {
+      "sha256": "d36005ae1e34a14d47f8a31e074b38931505ea2b37418d1b22f614de65a606fa",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set58_5_CD_2500_0_1.npy": {
+      "sha256": "b63d84c0793cf091b9c83cef94af70b16b975bc43ea6c8340d51b066754129c6",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set59_5_CD_2500_0_2.npy": {
+      "sha256": "851e528fcabbe25e98213c9e15f5951227c2f1f5f52edcdd61df80612467881e",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set5_1_ND_1_30_2.npy": {
+      "sha256": "87dce202f99b42869a07418331ac77c97b69759c73eac21634bcb912a4092c58",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set60_5_CD_2500_0_3.npy": {
+      "sha256": "75579845e786d5fc3e13f6c709d6ed0076d89885d5c04e7d6c5ec76f63521010",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set61_5_CD_2500_50_1.npy": {
+      "sha256": "870d4b8c763c3e8def906361bdfe496e941de8a253631972ffdb203c544000d8",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set62_5_CD_2500_50_2.npy": {
+      "sha256": "bc09fbed28fd47fc3cfadfd7182d522804422150208eeaae0ef061e130c8f978",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set63_5_CD_2500_50_3.npy": {
+      "sha256": "3846539f96ce8ee33590fe431ef14a975e353539e5f48c97e1500a95db19839b",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set64_4_CD_2500_30_1.npy": {
+      "sha256": "b71ce9960bdc0818a8a986070229be6d09a6e614e7918bb11539143c458083df",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set65_4_CD_2500_30_2.npy": {
+      "sha256": "2a391741ce4199c73ec1a14c3dd8296dfeca4ab97304b8ce3bd6246ff12dca99",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set66_4_CD_2500_30_3.npy": {
+      "sha256": "621327d49bd1fe32b07046be72f83c2dc231a774fa0d27dbd8e91c9e700fdd81",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set67_4_CD_2500_50_1.npy": {
+      "sha256": "30bf49867f51f3ee8cff2a54b8b3c97b1f611c1e91998dc3f7fa886c8b7a5bc8",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set68_4_CD_2500_50_2.npy": {
+      "sha256": "a2eec07680bf0121a82bbb4d282b19589dae31a00cb385b55789853cc91cf4b2",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set69_4_CD_2500_50_3.npy": {
+      "sha256": "0b091eae2559e9f03c32cd38f4bfd385d6925b3ceeea3eefdba859e013b962fe",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set6_1_ND_1_30_3.npy": {
+      "sha256": "2a168c626a5e56d776dc1fda46ef1ff60923ea27f4dd891d99ca07d6d63e06e7",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set70_4_CD_2500_0_1.npy": {
+      "sha256": "cfcd022c7cd04e2ba17459a8d8a70f0b6b005cfc6d891c3648ad542ff5f5ddba",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set71_4_CD_2500_0_2.npy": {
+      "sha256": "b57070bded8bdc55531df84118711e2742b83abe96c8a564b7a84cd0ae6cd14d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set72_4_CD_2500_0_3.npy": {
+      "sha256": "a9ba20d24889ed8a162c48d8f7287c90dcd6785cf093f0407e2265814f3831d2",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set73_5_M_100_30_1.npy": {
+      "sha256": "2123eb2d5800af5b28a3d46bbebe6f871c581fdc74b7ea827de579d7e24f59b8",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set74_5_M_100_30_2.npy": {
+      "sha256": "e9e711e4c804467227947f14355356c50f98efbfe5c0b28aef1b3505470a2151",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set75_5_M_100_30_3.npy": {
+      "sha256": "8669942261b5c9dfc52ce3123e514471b29aa1bba7bddf6abda009ac07e57e57",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set76_5_M_100_50_1.npy": {
+      "sha256": "4f50afb3cfbf8fae432ca0695bbe4fc9d86eb8cf6297c26185c9d3f7649ce9ab",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set77_5_M_100_50_2.npy": {
+      "sha256": "f422f78c294eaa9dc8d64f2a614dd5871bb1937fc1690fbd93297db535bb1a4c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set78_5_M_100_50_3.npy": {
+      "sha256": "b54f2c77186d726ed4b26d87c54fd280074c23fc956da067d5b0bfe974ba83dc",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set79_5_M_100_0_1.npy": {
+      "sha256": "df32213b6786474917b781d65881f89d5011cf1173f67a36a33ab8760f79a99d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set7_1_ND_1_0_1.npy": {
+      "sha256": "04d5af42f078f2b662c11453d9df76b950e0a7372b25f486098d1698d2e0960a",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set80_5_M_100_0_2.npy": {
+      "sha256": "d2476d52e93ede934b6637bc13314e070936dd8281150635b926c9a22d130388",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set81_5_M_100_0_3.npy": {
+      "sha256": "a72c658ff7d25bf490d0a98e153749f39b927f2c93fab239341091152aa01e77",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set82_7_M_100_50_1.npy": {
+      "sha256": "f217fa7cd1d8eca053d6a9d781694b6faaeebbb44c466abd9dfb5484b32ba3f1",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set83_7_M_100_50_2.npy": {
+      "sha256": "e85765fd25c2430281088c9d27d00bcac6ae4accb890ef3b9bfc19f2e0c54652",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set84_7_M_100_50_3.npy": {
+      "sha256": "490b3bfcc8f30a64162e9236a56f1fffb79762110f496ef703f2bc4d761e265b",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set85_7_M_100_30_1.npy": {
+      "sha256": "673f039483a048089d01d9166efb0b687beda0546aafe51ada340b29adfb6913",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set86_7_M_100_30_2.npy": {
+      "sha256": "ded6a657174c78d08dc7ec954701cca64d7f70d93aeaa1d916cff97f5f4fb86f",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set87_7_M_100_30_3.npy": {
+      "sha256": "938f327c0e1b6ac249d388aba728ed306abc2108b212ff04322d941a4daf3103",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set88_7_M_100_0_1.npy": {
+      "sha256": "3574d11c9837203e0b09f7ac3f5d06a3911c279b90ef72f46439b2945d10d054",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set89_7_M_100_0_2.npy": {
+      "sha256": "25a433a988599c22a2abb5dc78ab145d6cb5e4fd45acda709511d1bce2d6e652",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set8_1_ND_1_0_2.npy": {
+      "sha256": "7f1ff6e3a122e1c063b5526545db8aadcf09532f5fd33aa1a0a41d8d5ecce4c7",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set90_7_M_100_0_3.npy": {
+      "sha256": "34535a075cf6815eb2cfbae073b7a7c5984e852931397f7503faff2ecd62b30b",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set91_9_Pr_100_30_1.npy": {
+      "sha256": "5381501deda93cba5a92f299eaa08edc14fc39e218b144007f4f3d55f208eb6f",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set92_9_Pr_100_30_2.npy": {
+      "sha256": "2b5d95a7670610609e49a4554bd75756ac0eded6af0d0e1ee8408257c3b37131",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set93_9_Pr_100_30_3.npy": {
+      "sha256": "fa7eb739b059be48c80f1ef24b0392b9b35e59a1857b26f0e013682b3da0d19b",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set94_9_Pr_100_50_1.npy": {
+      "sha256": "860893654efe62251112a3449da2248a53ba061f45a990034bd7f564d48d850c",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set95_9_Pr_100_50_2.npy": {
+      "sha256": "3964f281154e7224f71c5b50e7c7f917f2de2621689894bc81d09125544c22de",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set96_9_Pr_100_50_3.npy": {
+      "sha256": "b59e02418ae644faefa157bd7bdacb10b46d067ccd05ab654595cb2b3877f0e1",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set97_9_Pr_100_0_1.npy": {
+      "sha256": "e302fe8bb29206d6e1b625745c8ab3d2f72e52efd52de92d51c849c5a7811ebc",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set98_9_Pr_100_0_2.npy": {
+      "sha256": "84d5641d7a8f6bafcfd2cda52d44b057172f55471a038c980ac37c0bfa06ef09",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set99_9_Pr_100_0_3.npy": {
+      "sha256": "96707eaf747219899a7a4d00f5b40928f6b09cbb3eaf1636be44dce772620270",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/0_chemical_gas/training/Set9_1_ND_1_0_3.npy": {
+      "sha256": "c8804da21e58eab4bfa624f6f30dc3b01be698056add19f84bfd736ed150767d",
+      "bytes": 14005376
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set10_3_T_NQ_A_2.npy": {
+      "sha256": "895b21c7f6b1298e3df4aa6acdb8e4c7b817ea934bb6c6c986cfa213b60e04f5",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set11_3_M_NQ_A_3.npy": {
+      "sha256": "05d43a145b4cd2e98ec08709a9d7a0e4e66b17705eaab627def0ade8d43577e3",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set12_3_E_NQ_A_3.npy": {
+      "sha256": "c26aeca5c32991b6efcccd1586b85bcdd43954e91a3139469a4a345484efd7fa",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set13_3_P_NQ_A_3.npy": {
+      "sha256": "03a023edbee69f49f6063600f665df86044ba81f041477bc664ba9bba2b34d1e",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set14_3_A_NQ_A_3.npy": {
+      "sha256": "b8017d9c308ffde61908a423f47e40f942e5e4482e32709b9caed6e75e6ee1b4",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set15_3_T_NQ_A_3.npy": {
+      "sha256": "adbba0162eee1d0121aad327eab0e824b71ca6788477ef54feba2eb7d6445fa1",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set1_3_M_NQ_A_1.npy": {
+      "sha256": "a78fecc6476331fff6278c60457a8fe4372b930371be2f0b6c43956a62d0c967",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set2_3_E_NQ_A_1.npy": {
+      "sha256": "6252f8bfa4b711520bd948025953e3a75e7adbec7402eda34552d9dafa46e954",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set3_3_P_NQ_A_1.npy": {
+      "sha256": "9fd1120fda91b3f94754b93dffedef5d24f78c58d5fbbc0a174b251cc13f6240",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set4_3_A_NQ_A_1.npy": {
+      "sha256": "bafe8c2148faa2da81373ec59cfffc70b21a6aee9ae2dbfb3d892d7d7fdb1146",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set5_3_T_NQ_A_1.npy": {
+      "sha256": "45798f62bf45b80cdc24410a0aef1e8956a2d8e64c69ac4b305fa10e2ad5d655",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set6_3_M_NQ_A_2.npy": {
+      "sha256": "5b6b015ff7ba4f9e230988f51e62fb82bd2a287679ed11285dad338069e672d1",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set7_3_E_NQ_A_2.npy": {
+      "sha256": "d0d10f8e5035247f42f264df0d144f868523e00ff9352689d2419362d63c9500",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set8_3_P_NQ_A_2.npy": {
+      "sha256": "39e3ed326fd893c52735a81c7c003b2703763bd59522aceb32d39f711aca6570",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/heldout_test/Set9_3_A_NQ_A_2.npy": {
+      "sha256": "7bd0d87e531ef11b36f4f61a5d933d1bd240fc64e2115c54de244e69804cfd20",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set10_2_T_NQ_A_1.npy": {
+      "sha256": "7701c7382e54715de321e3e376e310ca56bc6dde5d5eaa5de294396d0c7cf972",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set11_1_M_NQ_A_2.npy": {
+      "sha256": "a567058a406f259bee329ea5695772a608ca1e41916a0091b9b44b312c70a7bf",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set12_2_M_NQ_A_2.npy": {
+      "sha256": "5d68cf57b1ba7f813c49e84f2313ec44c16ff45183887e3ec1dffef1a06d1e91",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set13_1_E_NQ_A_2.npy": {
+      "sha256": "bfdef10ce4efc52696bf3d3d943c167b2ffaf856aaf458503765571320e876b2",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set14_2_E_NQ_A_2.npy": {
+      "sha256": "275ceb5e6d91ee75dd761cf53adf7e8952640050d234d10fad6fb76daaf3d95c",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set15_1_P_NQ_A_2.npy": {
+      "sha256": "0a07e0ed2ba24ecd420ddc5cf5c0b3faf36a8f06a17f861e18cda5ebe75d167d",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set16_2_P_NQ_A_2.npy": {
+      "sha256": "3ac6accd87ff438943be9f9d3f73ae801c34dfcb7471bd826895c970bd761367",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set17_1_A_NQ_A_2.npy": {
+      "sha256": "05ee8ff3a8ed0bb6db39284f0d0e9676af717476ad69729a5d96cdf4055506b9",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set18_2_A_NQ_A_2.npy": {
+      "sha256": "66cdd05e6141af80c9ae14cc0fef5c32907d82582d99f39d5f81e9fc60637b89",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set19_1_T_NQ_A_2.npy": {
+      "sha256": "e7983d7ffb630d4cfd4e72cb29cb0c38a6691bebf68d56430bb98f2f81e36054",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set1_1_M_NQ_A_1.npy": {
+      "sha256": "13c70c947988e96e5ea438e7006acfb6a65474c1e8dffdb43edf7d6a1b5655a3",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set20_2_T_NQ_A_2.npy": {
+      "sha256": "cca884bf08ee4c57d5ab4cc8445a0262b54144ef7c1b97df31ae914c8976536c",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set21_1_M_NQ_A_3.npy": {
+      "sha256": "59c7319f8cfc5c63fa6885c8957d06428781c38f27c5464b79c3d22853f6eefb",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set22_2_M_NQ_A_3.npy": {
+      "sha256": "1363aa18529c7a33713051193bd4fb5bda742d44d4a947117bab0cfa549be0df",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set23_1_E_NQ_A_3.npy": {
+      "sha256": "9095049af509b9685760b91f23b2a75971d9e086cdb5c88f57b7018c5ab71e8f",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set24_2_E_NQ_A_3.npy": {
+      "sha256": "d241947fbe9c666387a633beb631d7f7bb5f0b19096a40211e7a642fdae27582",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set25_1_P_NQ_A_3.npy": {
+      "sha256": "90fc116f9400a7fd3b02fdfd863e2d24eeaa0204d45462bb74afbe58149316af",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set26_2_P_NQ_A_3.npy": {
+      "sha256": "82e0ddc343707670cc4d1c30a1b17f2ef005ada36972c4fb94044842106f4998",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set27_1_A_NQ_A_3.npy": {
+      "sha256": "37acf8456d1676b4230ea3925a646d7b7ebc49ae0c0339bce6cfa85f17c23073",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set28_2_A_NQ_A_3.npy": {
+      "sha256": "d91ee8f87158d677e20995a2ae8a6dc6999247fe19d1fef7fcd92e049e3b1771",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set29_1_T_NQ_A_3.npy": {
+      "sha256": "623dbbfc64d1e5dec2dde6dd2a364c9197144251ef8ba6fbe03a3e888c61059a",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set2_2_M_NQ_A_1.npy": {
+      "sha256": "3dec2b5bd7beea557dcac9ff64c3d5dda34f6dec16b860973b6459beec618315",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set30_2_T_NQ_A_3.npy": {
+      "sha256": "90dd3f0b79e19efd175eeb58449bdddb75759b8a3a974806438024f5a2735079",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set3_1_E_NQ_A_1.npy": {
+      "sha256": "22271ca4b05205d9e8a071f399542e8b69736808042d5010967862544a26100c",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set4_2_E_NQ_A_1.npy": {
+      "sha256": "a7e3982c643286f59799cc33797d92815a90b788cd3b3c8337a5e6f27fc854ff",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set5_1_P_NQ_A_1.npy": {
+      "sha256": "fc7da6a6ae01c83edc4f6fab0e8cf48d6be07514ba88622b1df36f6506cde642",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set6_2_P_NQ_A_1.npy": {
+      "sha256": "cb8f08231f65196dd0b688428b09a488a22eb08d4704c0ffa0c9ed871a1d978d",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set7_1_A_NQ_A_1.npy": {
+      "sha256": "87b29cbd04d24d7b478fcca36a0fa61a9e81aac0e15325fe6c944cf0f2106252",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set8_2_A_NQ_A_1.npy": {
+      "sha256": "3f6cea3a7da346d0d21c47a1970f9dc8c26a467b79db9b0930ed2998773f9aec",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/1_solvent/training/Set9_1_T_NQ_A_1.npy": {
+      "sha256": "e4a02fa4eeacded63ebf26e3c5a598c8d95f176123c31b853655a61d4c948fdf",
+      "bytes": 6208640
+    },
+    "TBDT_Dataset/2_bacteria/heldout_test/Set10_3_PSA_NQ_A_3.npy": {
+      "sha256": "697d5eb1b2f125060c829e66ffa332038f3781e6bfce9c1df9eddbb475c2a7a0",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/heldout_test/Set1_3_EC_NQ_A_2.npy": {
+      "sha256": "6fdd5d7f6920f732ef045e910ef80a20cae14ec4adb178b8572236f5d1dfbf29",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/heldout_test/Set2_3_SA_NQ_A_2.npy": {
+      "sha256": "713d5811657bb4fae691395a41e155493f58d4c4494f87ba7861f813b60a5c6f",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/heldout_test/Set3_3_CA_NQ_A_2.npy": {
+      "sha256": "39d7302645350ce45f5ecdeec2d24a5e536b3db97f8946e9ce968ad8f71111b4",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/heldout_test/Set4_3_SS_NQ_A_2.npy": {
+      "sha256": "7af875507062ac7fd69fa3e051ac276ac3a18dfdef26eb3d7d436ca1aea65c93",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/heldout_test/Set5_3_PSA_NQ_A_2.npy": {
+      "sha256": "3059fed3033e48d3dd234b834b10773ff4100f94ea5043d8b1f0ff0a57003c6a",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/heldout_test/Set6_3_EC_NQ_A_3.npy": {
+      "sha256": "ecc26ac1c0b5556a159b2938abad216d4e3800fb0b491488989a91b86bf63316",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/heldout_test/Set7_3_CA_NQ_A_3.npy": {
+      "sha256": "afcc20190962bcf346e18fbe78575124aa4857b6db90ca8f1781c54f996d3dfe",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/heldout_test/Set8_3_SS_NQ_A_3.npy": {
+      "sha256": "22fa0c57ccf830255bf32dc25a792cecd49770d0a86ae5b7f3a566ebdb5ed2cc",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/heldout_test/Set9_3_SA_NQ_A_3.npy": {
+      "sha256": "aeb78a6bcd88da3109efbadd8c70a972458e236af12227886a2b44ea2296b48b",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set10_2_PSA_NQ_A_1.npy": {
+      "sha256": "1f7709ac195b50c2e61cbd5239a8b96f87deed2f92e3d40aca210066895d34ef",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set11_1_EC_NQ_A_2.npy": {
+      "sha256": "96bb2ad8e35fcbaf204fc5b8b5d960da01b15cf00c2f0753a82eb3411c9b5775",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set12_2_EC_NQ_A_2.npy": {
+      "sha256": "6efb49892f0feb119bdcd7d01b0376605662153020f5bfe18929a6bb18e01e55",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set13_1_SA_NQ_A_2.npy": {
+      "sha256": "eca5e2e37e57bc418fa057a41d71ead9791ccb5418a699526f6c58ac6b5a70c0",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set14_2_SA_NQ_A_2.npy": {
+      "sha256": "e92ee840b107b03d3f5b5933d2e4c697f75859e6258cc996b900d3116b910e63",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set15_1_CA_NQ_A_2.npy": {
+      "sha256": "d3c4c458ba317725bacf7a78c93b985a3a07adec76f750e87222dd73a937b2be",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set16_2_CA_NQ_A_2.npy": {
+      "sha256": "e6a8bcc59a142150b89b2049c34b5284224baba0448c036872749e0be70149b1",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set17_1_SS_NQ_A_2.npy": {
+      "sha256": "b62ed18c1cd21d1763cb3370d63c43a8c88e10694cd29324a55b2810bb510fe6",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set18_2_SS_NQ_A_2.npy": {
+      "sha256": "dec24bf6ef4b354a5e641c684b5f8f6506f3100b05892d9d2dbc4f9c42ad51ed",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set19_1_PSA_NQ_A_2.npy": {
+      "sha256": "1ac5e805193c123ce5d555bbc19718b7a2d4285173265de8194c0c7ab92bdac0",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set1_1_EC_NQ_A_1.npy": {
+      "sha256": "303721059272abedebdf063269cd8b7e4122c5b0c60a5800d45d8dcc353d748d",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set20_2_PSA_NQ_A_2.npy": {
+      "sha256": "a66536f6874d79fb4bdd150f741243a587ce07693d2679e1a88a0236efa7f9fa",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set21_1_EC_NQ_A_3.npy": {
+      "sha256": "1605ee3d55c9019599a67a19f23914796fa15058b416179947f6cd51da6e3ce4",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set22_2_EC_NQ_A_3.npy": {
+      "sha256": "fcb07d3e89a34ba2d4290e7a6d1d8a4c601fda76da7ea8f009be6cfb7df3568e",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set23_1_CA_NQ_A_3.npy": {
+      "sha256": "cfc3f3d08582e971f19c596d29dd1baa95d2bc182d24d7046992e4a005527c6d",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set24_2_CA_NQ_A_3.npy": {
+      "sha256": "a3b975ddae1bd451aa69935ca2cb4ff8b90ec0984712c27a5afdae12b41fcd37",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set25_1_SS_NQ_A_3.npy": {
+      "sha256": "84caaa2e51d50ece5b84cfe9ce95cc1349bdfd473d0a2832abd8bf3dadf951fd",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set26_2_SS_NQ_A_3.npy": {
+      "sha256": "234e6fb72109c0de6635b3a162589f2766375592608e2cadc6cace4b84e61a54",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set27_1_SA_NQ_A_3.npy": {
+      "sha256": "ba045f56a30554223dff336f0bc91f068dae49c15b974d9f7b0ce78aa5818a1c",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set28_2_SA_NQ_A_3.npy": {
+      "sha256": "eeecc6c478ea145887c8c23234f02702e320a7d4a42ceff4acf2e64254b7f13f",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set29_1_PSA_NQ_A_3.npy": {
+      "sha256": "5694435fdde15846b96f69ea20d2779d7112201c6f5317caaf030969b021136c",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set2_2_EC_NQ_A_1.npy": {
+      "sha256": "e42a5027756fe89a4ee8f5e54f3dc8a445088e729b55b128de675ffc8ed3bfcf",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set30_2_PSA_NQ_A_3.npy": {
+      "sha256": "c05a610f350963bbe80b98a16c7ce025b561b64413da0d86f9ab5292fd3229a6",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set3_1_SA_NQ_A_1.npy": {
+      "sha256": "6b79ecc444fff99b300c06a3f7a6d1e180bf9a64df56a081586e3c1cb85d1b3f",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set4_2_SA_NQ_A_1.npy": {
+      "sha256": "aeea126edbee201a893e58652ab9ffe6b963eecb8ca12af42b431446accf7706",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set5_1_CA_NQ_A_1.npy": {
+      "sha256": "39ae2ab10f966999a50180981091728bc1a423d95505074e001b8a1ad3195312",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set6_2_CA_NQ_A_1.npy": {
+      "sha256": "558e4173f0b2e98ca6d51d6b67c5786464045a5aa09f126ae299d17f3fd976ec",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set7_1_SS_NQ_A_1.npy": {
+      "sha256": "429eda48d9eb1c91f48296eedd682920d4887b8cfcbef62759cc4b3807295cec",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set8_2_SS_NQ_A_1.npy": {
+      "sha256": "6d20cf11942f08cb31a4af19b9b603b29fe4b87259b9e53ea63ddc489cf796ab",
+      "bytes": 6641792
+    },
+    "TBDT_Dataset/2_bacteria/training/Set9_1_PSA_NQ_A_1.npy": {
+      "sha256": "3198a188b5a27f348792531369cab609d3bdf05b5bf2ef364e34292b7ce1b936",
+      "bytes": 6641792
+    }
+  }
+}

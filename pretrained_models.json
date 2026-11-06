@@ -1,0 +1,153 @@
+{
+  "run_folder_name": "pretrained",
+  "models": [
+    {
+      "config_name": "Config_TBDT_Chem_dry_pretrained",
+      "path": "results/models/tbdt_chem_dry_pretrained/runs/pretrained",
+      "task_heldout_accuracy": 96.61649127481017,
+      "files": {
+        "best_checkpoint.pt": {
+          "sha256": "e9d252e48c9b248d6d34f3530992f417d039d317d16d7df157029f4ecfd144ca",
+          "bytes": 593212
+        },
+        "config_snapshot.json": {
+          "sha256": "c96f07e49f2c3e9575e7e327f2b27bf53a55c1ca8986a48e8046090b0197acb5",
+          "bytes": 1401
+        },
+        "gas_label_map.json": {
+          "sha256": "a934e1d078d6c9a956ef2567172d2643693076ef25f4da732271435f877f1c3f",
+          "bytes": 130
+        },
+        "training_history.csv": {
+          "sha256": "949c7a823f0f92e6076b6a305d6a7b42928d2fb9f2db10be9991571549f0bdd3",
+          "bytes": 11002
+        },
+        "summary.json": {
+          "sha256": "e5910228007c5425f302b937d0bc071ba9661fa9c73c808f6c4ba2fbbff97022",
+          "bytes": 235
+        },
+        "heldout_test_metrics.json": {
+          "sha256": "4c2d19325f9e3be99722db436dbdf72fc396b0b35641524b6a67041968455e78",
+          "bytes": 535
+        }
+      },
+      "evaluated_split": "heldout_test",
+      "reporting_rh": [
+        0
+      ],
+      "samples": 7507,
+      "correct": 7253
+    },
+    {
+      "config_name": "Config_TBDT_Chem_humid_pretrained",
+      "path": "results/models/tbdt_chem_humid_pretrained/runs/pretrained",
+      "task_heldout_accuracy": 93.64764923402007,
+      "files": {
+        "best_checkpoint.pt": {
+          "sha256": "d915c7b002ee35afe58e3206d71ab6ff73060177d21a0f10e3f793e084b63b20",
+          "bytes": 374268
+        },
+        "config_snapshot.json": {
+          "sha256": "9af7fedb0eada43e1db289f6daa88e5146cddf5e33699b28f533e37306762824",
+          "bytes": 1677
+        },
+        "gas_label_map.json": {
+          "sha256": "a934e1d078d6c9a956ef2567172d2643693076ef25f4da732271435f877f1c3f",
+          "bytes": 130
+        },
+        "training_history.csv": {
+          "sha256": "3eeb340473e8d4e1b97210851fc682030fbcbfdafa859874409b3b9c6eb593df",
+          "bytes": 15761
+        },
+        "summary.json": {
+          "sha256": "a2bfede8c415ff50ed61dbb62e880b1a4571e1048900ec38aac7960a17435035",
+          "bytes": 237
+        },
+        "heldout_test_metrics.json": {
+          "sha256": "bdda1cc1c94fbd3cb2f51b6f12b273beb28eca997defab37b3fd7834d48bdf8c",
+          "bytes": 762
+        }
+      },
+      "evaluated_split": "heldout_test",
+      "reporting_rh": [
+        30
+      ],
+      "samples": 7572,
+      "correct": 7091
+    },
+    {
+      "config_name": "Config_TBDT_Solvent_pretrained",
+      "path": "results/models/tbdt_solvent_pretrained/runs/pretrained",
+      "task_heldout_accuracy": 95.97655209166001,
+      "files": {
+        "best_checkpoint.pt": {
+          "sha256": "cf757468fd1299b063cc97fd7d988df399655d816dbccd9a6c5d767141a5ae94",
+          "bytes": 160316
+        },
+        "config_snapshot.json": {
+          "sha256": "97f4b2d0aa8b984bbe47862659da1ce6fbb4e387c1ed7f7a7abd124e5aa60e59",
+          "bytes": 1393
+        },
+        "gas_label_map.json": {
+          "sha256": "1105e20e1a123b38519e5cc506c37c7b71e156806c29939ebc96e18aaa98bcfe",
+          "bytes": 52
+        },
+        "training_history.csv": {
+          "sha256": "1b2943f9f847234dc4ade7ba24246f253b6e296149e589da9905dc54336472a6",
+          "bytes": 9566
+        },
+        "summary.json": {
+          "sha256": "b49df305815353e768806302f6d4aa3e8f471033a70d5a8640602a29b72ee9ce",
+          "bytes": 213
+        },
+        "heldout_test_metrics.json": {
+          "sha256": "ec605b1c24dce4fde3bd5d9bed301eff1ec047e7a244e9eb4fea5230882a5998",
+          "bytes": 535
+        }
+      },
+      "evaluated_split": "heldout_test",
+      "reporting_rh": [
+        "A"
+      ],
+      "samples": 3753,
+      "correct": 3602
+    },
+    {
+      "config_name": "Config_TBDT_Bacteria_pretrained",
+      "path": "results/models/tbdt_bacteria_pretrained/runs/pretrained",
+      "task_heldout_accuracy": 97.49412685982773,
+      "files": {
+        "best_checkpoint.pt": {
+          "sha256": "3a8a5f84b88888065f1494faed7b93e44888eb990d015e4f7468313da7b06776",
+          "bytes": 11132
+        },
+        "config_snapshot.json": {
+          "sha256": "f82c99b60b9ffd5eaf6ec0b48dfeba7dd501ae54db365849c2a6c4d946068c6a",
+          "bytes": 1394
+        },
+        "gas_label_map.json": {
+          "sha256": "85e941cd5d1b425a9d894f36b1ee55582b3df23994bbca184f85b6c770c1150c",
+          "bytes": 58
+        },
+        "training_history.csv": {
+          "sha256": "0a05dcabaceb3d759a2d1992fb6a7060128142d3ce7ea6a2854913ee75222e38",
+          "bytes": 9445
+        },
+        "summary.json": {
+          "sha256": "301931b12855b86882737a50578c3b7bc2f5f3befc941019496c3c1efbbf480c",
+          "bytes": 238
+        },
+        "heldout_test_metrics.json": {
+          "sha256": "4cae2f82eeb64051cfe331b0aa7e7026cc5fbc2b7045fecb694a84aa38950fe7",
+          "bytes": 537
+        }
+      },
+      "evaluated_split": "heldout_test",
+      "reporting_rh": [
+        "A"
+      ],
+      "samples": 2554,
+      "correct": 2490
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "task": "Solvent",
+  "evaluated_split": "heldout_test",
+  "task_reporting_rh": [
+    "A"
+  ],
+  "task_heldout_accuracy": 95.97655209166001,
+  "task_samples": 3753,
+  "task_correct": 3602,
+  "all_heldout": {
+    "samples": 3753,
+    "correct": 3602,
+    "accuracy": 95.97655209166001,
+    "by_rh": {
+      "A": {
+        "samples": 3753,
+        "correct": 3602,
+        "accuracy": 95.97655209166001
+      }
+    }
+  },
+  "best_epoch": 96,
+  "all_before_after_tensors_identical": true,
+  "historical_model_tensors_identical": true
+}

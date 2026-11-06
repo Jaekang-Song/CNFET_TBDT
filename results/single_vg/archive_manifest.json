@@ -1,0 +1,1184 @@
+{
+  "schema_version": 1,
+  "completed_runs": 576,
+  "vg_count": 24,
+  "candidates_per_vg": 24,
+  "seeds": [
+    0
+  ],
+  "selection": "maximum validation accuracy; earliest candidate on exact ties",
+  "files": {
+    "best_by_vg_seed.csv": {
+      "sha256": "76876df7013d3f322ce42619b4d0ea2a98c42649457c2e8607e0fe3af27df632",
+      "bytes": 32306
+    },
+    "completed_runs.csv": {
+      "sha256": "1af9f887f01e770aee1175c912fe084520bfbcd4d41d47e8501edbd229a5e3ba",
+      "bytes": 492221
+    },
+    "README.md": {
+      "sha256": "4aeb42754f728daf17b473eaa6f80e06d230131db7edbd8ff800fec8673be979",
+      "bytes": 994
+    },
+    "selected_models/v000/best_checkpoint.pt": {
+      "sha256": "b3d731c5d10f1b7d9066a0c341d2efb592072c17d1e8dad2cc4265bdd94106f5",
+      "bytes": 356540
+    },
+    "selected_models/v000/config_snapshot.json": {
+      "sha256": "31750ac57bbb66f1ebfb7a458945ad780dd5400fb6df83dd3176629d847de3db",
+      "bytes": 2717
+    },
+    "selected_models/v000/evaluation_metrics.csv": {
+      "sha256": "378adb675673027e2cc18d3dc9bb628462d7ac45699dad53596501495345fc81",
+      "bytes": 114
+    },
+    "selected_models/v000/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v000/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "4e8396b0f9cd7cddf2daa75ad62429f52280bed0017e873944f6e91d05941c12",
+      "bytes": 335
+    },
+    "selected_models/v000/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "6a20940a0609c07de2fd0c4a6cc4a3869e2181f15359282c8f0d18888f687872",
+      "bytes": 361
+    },
+    "selected_models/v000/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "87541766b60874f520af3f34c1e5979b6ecddf0d6850c2e1bcf13d2307ea8e20",
+      "bytes": 1593
+    },
+    "selected_models/v000/heldout_test_predictions.npy": {
+      "sha256": "1e899fa5848c225354609421198ffbd7e630ee6a5537429fa116dfb0bc5932c8",
+      "bytes": 181120
+    },
+    "selected_models/v000/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v000/training_history.csv": {
+      "sha256": "90447cb29fed11feeb614afea41dcb47c8fb1cbe8fc690be1a3bd6f8141b805e",
+      "bytes": 234270
+    },
+    "selected_models/v000/val_predictions.npy": {
+      "sha256": "d4a7817cb007e6e422921cdf907dc289d317d5e2bf7334188bede8af764b8c13",
+      "bytes": 59456
+    },
+    "selected_models/v000/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v004/best_checkpoint.pt": {
+      "sha256": "ee96fd60424fa5062bd0348ef7b2ffced4359ca9222b151a74fc0b58a6772cd1",
+      "bytes": 356540
+    },
+    "selected_models/v004/config_snapshot.json": {
+      "sha256": "4f78ca08a89cfffb9eae0197da262565769de1f39fa1e22d271bb1a38070f76b",
+      "bytes": 2717
+    },
+    "selected_models/v004/evaluation_metrics.csv": {
+      "sha256": "a57280a21db614fe6bc7085f73046077b7467aacf527de4d8b4771be605b892d",
+      "bytes": 115
+    },
+    "selected_models/v004/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v004/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "ca515637b79914c75c8d10548c5c59cc730837c507ff26f36fb1a7623d809da7",
+      "bytes": 335
+    },
+    "selected_models/v004/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "6cad357cfb7bab85050908546460d4a51342e4fee1b8d2b4b214b234c1c4f14a",
+      "bytes": 358
+    },
+    "selected_models/v004/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "d43dceed0f8e6496bbdebbd0e39512414051b80d4a593f196deed5413795b0cc",
+      "bytes": 1622
+    },
+    "selected_models/v004/heldout_test_predictions.npy": {
+      "sha256": "cef42b21983aec5724c7101908d0f468c25286121e00f276e5ae837e5fd1d3f6",
+      "bytes": 181120
+    },
+    "selected_models/v004/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v004/training_history.csv": {
+      "sha256": "8c88986e40a9dbf5300a5846e5f7e83b785ce8c98b15a4edcdeb57b262e25b9d",
+      "bytes": 249303
+    },
+    "selected_models/v004/val_predictions.npy": {
+      "sha256": "fa6c6a11a7f8936147c18d21ef9e1ae623f631b7a89448dc16a502f74f307acc",
+      "bytes": 59456
+    },
+    "selected_models/v004/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v008/best_checkpoint.pt": {
+      "sha256": "8c00a9f4c330687820660db76ee397779a312f0755e0f742935df788a5d90b84",
+      "bytes": 113788
+    },
+    "selected_models/v008/config_snapshot.json": {
+      "sha256": "1b18a057db5cdb38f3476d855cff35d234c0fd15054a5ac5f6f195f68bcb1bc6",
+      "bytes": 2717
+    },
+    "selected_models/v008/evaluation_metrics.csv": {
+      "sha256": "735a416c3ad10acf3210472f1d051e04f490c81b7f7598b64a1632275803ba97",
+      "bytes": 114
+    },
+    "selected_models/v008/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v008/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "c5703b781f5c0fe69794d1a68b68df162ac9a2ea55d1bb80fccc05060019fad3",
+      "bytes": 335
+    },
+    "selected_models/v008/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "9e08567047b1b81580331a23a378ec75511d2e188bbd998ecc0763b4fa362d38",
+      "bytes": 354
+    },
+    "selected_models/v008/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "391037fea81755c7fb22f14878f8f9d62a195f6bc191baef4424f0ab915d5215",
+      "bytes": 1520
+    },
+    "selected_models/v008/heldout_test_predictions.npy": {
+      "sha256": "15e570df3a55bedb6d6d78f34d032074d803eabeac6d70d9e6e91931c9d21876",
+      "bytes": 181120
+    },
+    "selected_models/v008/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v008/training_history.csv": {
+      "sha256": "80fa9e77fd98f470913a3ce5738f078b50272795e9bdd954226e5bcbf75ece31",
+      "bytes": 249166
+    },
+    "selected_models/v008/val_predictions.npy": {
+      "sha256": "a357bca4fdba6df1ad573151df76120ed66b022709e0435c929cd4405d166aa0",
+      "bytes": 59456
+    },
+    "selected_models/v008/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v012/best_checkpoint.pt": {
+      "sha256": "6d1182e861679ffaca272486f23c6fcc68982d4bbf26e0f9302272c5ee6e2a89",
+      "bytes": 356540
+    },
+    "selected_models/v012/config_snapshot.json": {
+      "sha256": "c58921c4937d2d173f253d198be53a358c083e67fb92fc8a0ca6d852a9f323bb",
+      "bytes": 2718
+    },
+    "selected_models/v012/evaluation_metrics.csv": {
+      "sha256": "ceca8d8fd088700af0a51b2fa2b1ca42ded174f9743b5b4fdfdf6d780dbea7c8",
+      "bytes": 114
+    },
+    "selected_models/v012/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v012/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "a8f9c1c98bc0d592f5eaf52f149635bf8decdcc66346c70fa6520d43b215ba5f",
+      "bytes": 337
+    },
+    "selected_models/v012/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "67c8c7c5bca6c994892d038a2ef0ab4385b4c0742ec8796762535f5f00c8c4eb",
+      "bytes": 354
+    },
+    "selected_models/v012/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "6ecfc1d2de65d707191d5bf5782b0932189970f82ca0c5874025f7e16d6f166b",
+      "bytes": 1516
+    },
+    "selected_models/v012/heldout_test_predictions.npy": {
+      "sha256": "a2a10b74ec828503a00784c90dd086c987c75f67151e5aeb5638a151410d66c7",
+      "bytes": 181120
+    },
+    "selected_models/v012/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v012/training_history.csv": {
+      "sha256": "1abf719c899decf5241aa800abd7c8b940d2864867c81b051c21db885094e742",
+      "bytes": 216882
+    },
+    "selected_models/v012/val_predictions.npy": {
+      "sha256": "ff345de9f0f5ea0f9b8b8d63d8353663dc54fa9a8e0beb63484d2c359bd14730",
+      "bytes": 59456
+    },
+    "selected_models/v012/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v016/best_checkpoint.pt": {
+      "sha256": "c6e1a152ddc344a7bf341a720a32694eee2ce21e22c3b654d5fa36ee4306bc20",
+      "bytes": 356540
+    },
+    "selected_models/v016/config_snapshot.json": {
+      "sha256": "9c8c349bdc6f0adcfbb0ab4e172458025a31eaaf4f5fa5a09e019aa61ccffd4a",
+      "bytes": 2718
+    },
+    "selected_models/v016/evaluation_metrics.csv": {
+      "sha256": "9b672cf3aa84bcf0fcf112d6f478c916e19f6b7fede0d9d7d7357827a5a75f89",
+      "bytes": 112
+    },
+    "selected_models/v016/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v016/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "4ba7ce3821278888ba477e44b68818d8109b628456e69267ab30c60a1eb3c6de",
+      "bytes": 321
+    },
+    "selected_models/v016/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "7002c3b40c24b84a9bb67eb89ee9a47a6a1887158d3dcb1bb2500bf190f251f1",
+      "bytes": 346
+    },
+    "selected_models/v016/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "89948ec5d5158070e031b5e341a702f0326693ec2b5c7c6c598c9b9401b1fad6",
+      "bytes": 1541
+    },
+    "selected_models/v016/heldout_test_predictions.npy": {
+      "sha256": "10a038001f2ee71d1e8db78b3b3b4b7ea2354497b8b851ee65ec0f580ae72ac4",
+      "bytes": 181120
+    },
+    "selected_models/v016/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v016/training_history.csv": {
+      "sha256": "eee475f9e9cd22a2cb87cb9163abb3576a1760858eb30882ba660b223e336cd1",
+      "bytes": 247581
+    },
+    "selected_models/v016/val_predictions.npy": {
+      "sha256": "5439db5e3e1a5efb5f7b7b6a5315cdc52427255497902eda71ad238017b59d82",
+      "bytes": 59456
+    },
+    "selected_models/v016/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v020/best_checkpoint.pt": {
+      "sha256": "d5040ff4faffc85d96aef5a14b4a0cc228e7ea73def19ff186cb89c4caa29b38",
+      "bytes": 356540
+    },
+    "selected_models/v020/config_snapshot.json": {
+      "sha256": "6ae422c5cbff364248f5f21efa3fb69b4c8e0f9efde9afa0582b961a62b7946e",
+      "bytes": 2718
+    },
+    "selected_models/v020/evaluation_metrics.csv": {
+      "sha256": "5831021f3581bb288b30a4b753dc20c55ed20430c5c40df132fe50accb5572f3",
+      "bytes": 114
+    },
+    "selected_models/v020/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v020/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "1b5d17387fb86472c72fda012c0ac7770dc86d447e802dfaef0eec233b5d163e",
+      "bytes": 321
+    },
+    "selected_models/v020/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "6b28a9ddc763a9bb77e2f694a3581c96246639399624d66d8ae331d574bfdae0",
+      "bytes": 341
+    },
+    "selected_models/v020/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "f09c7e6ec8c76064757043fcd8cf2d260d5e634b9c3c20b32a57123c51bcfaae",
+      "bytes": 1430
+    },
+    "selected_models/v020/heldout_test_predictions.npy": {
+      "sha256": "cfc448a99c35ee7a430121eb2faa26548d96f78c079c8d8e79e73394b703273e",
+      "bytes": 181120
+    },
+    "selected_models/v020/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v020/training_history.csv": {
+      "sha256": "1c8b57ec6d2ee0622a758574c700339d952ec2d3f18a9a163c153d638c794243",
+      "bytes": 229191
+    },
+    "selected_models/v020/val_predictions.npy": {
+      "sha256": "61ade61968fea97dd8c6e37927a333e79c138bc35a52b860c9e42f83bde5e850",
+      "bytes": 59456
+    },
+    "selected_models/v020/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v024/best_checkpoint.pt": {
+      "sha256": "dd9b1609282347cbe9aae46a71235e3fc6a7fa1cebd73cc2042abdd9d30b0a16",
+      "bytes": 356540
+    },
+    "selected_models/v024/config_snapshot.json": {
+      "sha256": "c7bb42eaabfbca9e8e39db629f6f3784756780600005d2481e0938a3eb7be2c5",
+      "bytes": 2717
+    },
+    "selected_models/v024/evaluation_metrics.csv": {
+      "sha256": "844240682c693147a2898d879cb38332781909a85668a97797bb331f173a9ef5",
+      "bytes": 114
+    },
+    "selected_models/v024/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v024/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "b5dcdfcbdda4f71cf9ca60e58d94283f4570520321a71dc425e8b340b023b9ca",
+      "bytes": 323
+    },
+    "selected_models/v024/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "7ebaca467f2f9d76863f0ae03704570a85738d1ebe5a54c5b8726800b7a13ed3",
+      "bytes": 338
+    },
+    "selected_models/v024/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "20b9f870529f995ebb3309278efa087677d92e56322e27d5243941ec7bdd5f9a",
+      "bytes": 1402
+    },
+    "selected_models/v024/heldout_test_predictions.npy": {
+      "sha256": "1de436c74a7b5ad9734ee6b61936cd107dd367c631556cd467948ecae7877cc1",
+      "bytes": 181120
+    },
+    "selected_models/v024/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v024/training_history.csv": {
+      "sha256": "0f23b5fe9ada1ae31cb2932f4095f2d92a685c55594df1d3a2bc43dbb9ad1fbf",
+      "bytes": 249043
+    },
+    "selected_models/v024/val_predictions.npy": {
+      "sha256": "204f4662fcc0a3aaac61b96014dd717a5964ee1453c877d9ee888382e7d007f4",
+      "bytes": 59456
+    },
+    "selected_models/v024/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v028/best_checkpoint.pt": {
+      "sha256": "81560ac35dc3d76534430ed6332e0c51be30f8b5ea2fb3667bded8307a91fe88",
+      "bytes": 356540
+    },
+    "selected_models/v028/config_snapshot.json": {
+      "sha256": "2cddf2e9cfdc4505a691200b2d8c36a5d5503e5d84cb4966de251d0e48800a63",
+      "bytes": 2718
+    },
+    "selected_models/v028/evaluation_metrics.csv": {
+      "sha256": "db88c1540e4e203901158ac8f14d9e40f2eb137b025546b2dec6947f92a6db79",
+      "bytes": 114
+    },
+    "selected_models/v028/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v028/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "00fc4db7232f523864214957d989e370be672175822a97f9578d9ecd40bff394",
+      "bytes": 324
+    },
+    "selected_models/v028/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "9006a258bdaf72d9e6dde2b991d0165b200e9b4d50ac2c4a9bc62317f273fa8e",
+      "bytes": 334
+    },
+    "selected_models/v028/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "d63daab28873fc545d19b2ab07db92c39d27ca6ada56c946dd03c3c18a0c3675",
+      "bytes": 1384
+    },
+    "selected_models/v028/heldout_test_predictions.npy": {
+      "sha256": "537bfbf3c79ed404535c217a5e774a5c90b53189d8032dcd660dedbd7b3a8856",
+      "bytes": 181120
+    },
+    "selected_models/v028/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v028/training_history.csv": {
+      "sha256": "55cd12513ceaeb3b426e53d7bf0485619bf0f807cfb1b20791a775204b74e101",
+      "bytes": 249073
+    },
+    "selected_models/v028/val_predictions.npy": {
+      "sha256": "15deb032c0a6b9cb6ecb4d27e375f60366ea2ddb6a55959b8ee2634712e9ae03",
+      "bytes": 59456
+    },
+    "selected_models/v028/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v032/best_checkpoint.pt": {
+      "sha256": "79ee08e91c0366d8342a9b44fbc71a6ebb34f5a821f5c7ae0671df1b88543217",
+      "bytes": 356540
+    },
+    "selected_models/v032/config_snapshot.json": {
+      "sha256": "1a3c88242b08dca4cd49755da4a5e32c05749be7e93dc9564e1eaca0cd9adb65",
+      "bytes": 2718
+    },
+    "selected_models/v032/evaluation_metrics.csv": {
+      "sha256": "2ec6c4306e4197c0893abda32cf5c166ab266e0a59043b13a2d6c0df869018fd",
+      "bytes": 114
+    },
+    "selected_models/v032/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v032/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "a87f228e92338e4eaf6320d98717771c3afaaaf39d843b0796fb0287f6278620",
+      "bytes": 324
+    },
+    "selected_models/v032/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "ae98b2b713a76cc0a899c0eb2df55ad5d70c56598d52a8978b507953980a96cd",
+      "bytes": 329
+    },
+    "selected_models/v032/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "2534c8b72203d268da93c41961a2e1339b18699379be7aa87939cfa4c85ecddf",
+      "bytes": 1303
+    },
+    "selected_models/v032/heldout_test_predictions.npy": {
+      "sha256": "f5f926b349704aeb8a328a252ae8d1bf8a804f1d7eed78ef762c9d8c5fce731a",
+      "bytes": 181120
+    },
+    "selected_models/v032/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v032/training_history.csv": {
+      "sha256": "735c78478fb4d5a25df185a1edfda54a88ab67854b7023bd6dec636bfab48ffc",
+      "bytes": 249034
+    },
+    "selected_models/v032/val_predictions.npy": {
+      "sha256": "0c3d4a7398b3effbdaf23727fc63fe944dd1fae0ad387b43ebaf736fc122f90b",
+      "bytes": 59456
+    },
+    "selected_models/v032/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v036/best_checkpoint.pt": {
+      "sha256": "7537e936ae9a98bb610ce985ced4894dcdd221257c31da793bca7de2703a4df9",
+      "bytes": 356540
+    },
+    "selected_models/v036/config_snapshot.json": {
+      "sha256": "f7e62bf7ca43df1516707e99acd808f742622cdfeff40ce5a7370d7a62055d5e",
+      "bytes": 2719
+    },
+    "selected_models/v036/evaluation_metrics.csv": {
+      "sha256": "682ed47d3e91bda76d77adaacc501f3c73dd60aa688fc4e30e5d248fea13e12f",
+      "bytes": 114
+    },
+    "selected_models/v036/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v036/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "8490de455df72d55f6df69e3ba13d87165829087fa744a00ff67d29f1a188ac0",
+      "bytes": 323
+    },
+    "selected_models/v036/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "87da9f7637c4f00a8e7791b7eb5f1447418e0aea7e0bc585d599dab802eb86a9",
+      "bytes": 320
+    },
+    "selected_models/v036/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "0462e9b81da0a89a203c0ddc8251c8dbd648e24e0f2e0393286f7017ab3accdc",
+      "bytes": 1290
+    },
+    "selected_models/v036/heldout_test_predictions.npy": {
+      "sha256": "75d27d7cc4625338807c495b19db3640f04f7664befc4a3459a073da76ec21d6",
+      "bytes": 181120
+    },
+    "selected_models/v036/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v036/training_history.csv": {
+      "sha256": "ddcb3126b340e450d27dfe209304a3017c9f9b22ef55b5a372bf218684e92573",
+      "bytes": 249011
+    },
+    "selected_models/v036/val_predictions.npy": {
+      "sha256": "4db25d41c2cfafdf9efb7cdea36b72ee8ada4478907acccad7d9eeee6782dd58",
+      "bytes": 59456
+    },
+    "selected_models/v036/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v040/best_checkpoint.pt": {
+      "sha256": "a1d4152fdeb13fa8097301508f81329c3ad8e8f172e2f18f29ae1db112800335",
+      "bytes": 356540
+    },
+    "selected_models/v040/config_snapshot.json": {
+      "sha256": "48cc6cae26f864a4885d2a018a4382b929fbb312602a85fc101321ced0f4e6e5",
+      "bytes": 2719
+    },
+    "selected_models/v040/evaluation_metrics.csv": {
+      "sha256": "8cd4fe6cacf0fce69faaab89bc0afed5356147a1fab2b59cff85f09a0d6d68db",
+      "bytes": 114
+    },
+    "selected_models/v040/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v040/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "ce8d180fa6f97e4e74b418bbc966af82deb80db57877573b042d36289faf8d48",
+      "bytes": 325
+    },
+    "selected_models/v040/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "ea97ad895f2351cfe79ef6c50e3bfa11463f916825229acb0bfb041e8db26712",
+      "bytes": 319
+    },
+    "selected_models/v040/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "252ebf150562ab33c2133cf935c28fce6d771b3f05a8181ba020d25bc8d8e71c",
+      "bytes": 1226
+    },
+    "selected_models/v040/heldout_test_predictions.npy": {
+      "sha256": "3fa7d01ff3ec9430cd204df9c1c25d8d95b8ba6778991247db526082c7cc35fb",
+      "bytes": 181120
+    },
+    "selected_models/v040/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v040/training_history.csv": {
+      "sha256": "3c01bf980770ff97738425269a88d24379bcdfbfe6ab50934f149723a5a3d9f8",
+      "bytes": 249066
+    },
+    "selected_models/v040/val_predictions.npy": {
+      "sha256": "87f7f22d23021338d3d64f72a1eba1cfb81b6485fb5f3f92d95b0a2b021866cf",
+      "bytes": 59456
+    },
+    "selected_models/v040/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v044/best_checkpoint.pt": {
+      "sha256": "904630871c6832e52d8366c389569652d60712cc25378881ab78eb6e17d00225",
+      "bytes": 356540
+    },
+    "selected_models/v044/config_snapshot.json": {
+      "sha256": "433c96cf4a1797fb295544049a328dddf99e1847c1d9c3c5f78ded90915fa358",
+      "bytes": 2719
+    },
+    "selected_models/v044/evaluation_metrics.csv": {
+      "sha256": "1a78e783bf2ffa94bf311f2296b2426e596840faa1787323f76040736fcc9b01",
+      "bytes": 113
+    },
+    "selected_models/v044/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v044/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "f3fc95face371ff246b18f9483367c75921ae505804264ab41368f350c85229b",
+      "bytes": 321
+    },
+    "selected_models/v044/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "a4df889846639c5aef928ebdf5d5488bcface5a72d772886bfd1e41d4a645857",
+      "bytes": 317
+    },
+    "selected_models/v044/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "f7df2fc32a095a24b709bfd415ca227ca314db4b36ebafc50e6b5176ed220310",
+      "bytes": 1198
+    },
+    "selected_models/v044/heldout_test_predictions.npy": {
+      "sha256": "4b664ccd5833e369185515aac54363e8d452191e53d41dbff48170a819973602",
+      "bytes": 181120
+    },
+    "selected_models/v044/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v044/training_history.csv": {
+      "sha256": "0bf465672f9a2d61ddcf8a5363882686f492404b4fd7d96d79725edbbf06b903",
+      "bytes": 249000
+    },
+    "selected_models/v044/val_predictions.npy": {
+      "sha256": "749943dfd42bc5a903df3368cc98e1e55d790168cd596722acf7945c438bd2e3",
+      "bytes": 59456
+    },
+    "selected_models/v044/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v048/best_checkpoint.pt": {
+      "sha256": "653376a95cf63ea4807712a90f90f29d76c14113cd7417e58c34c42721c63b46",
+      "bytes": 356540
+    },
+    "selected_models/v048/config_snapshot.json": {
+      "sha256": "716d4402dea02cd438a7c6585034f840e2382d57d702be7a275e1a2fef16a7f5",
+      "bytes": 2719
+    },
+    "selected_models/v048/evaluation_metrics.csv": {
+      "sha256": "86925d60f2d88648e2231e09682c12b3e264a197c8c1983d05939b1aa2e1042b",
+      "bytes": 114
+    },
+    "selected_models/v048/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v048/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "61e4b9c4cf8522118aa3576ded10adcd5c67103f060b06761bba31acc0ee8dc9",
+      "bytes": 323
+    },
+    "selected_models/v048/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "c8bbd9551d9407bce1a515376a2dfe492e2b7654489a4636f466391feb3c8d5b",
+      "bytes": 313
+    },
+    "selected_models/v048/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "c98f93d79bf0388a555830f0c96d89942ec9667ace8e5c5c4a242dad71985137",
+      "bytes": 1133
+    },
+    "selected_models/v048/heldout_test_predictions.npy": {
+      "sha256": "f8a5412df729c09651fb32f299c2e7efdaa296c0962d7584597be536d9db44b1",
+      "bytes": 181120
+    },
+    "selected_models/v048/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v048/training_history.csv": {
+      "sha256": "f3e4c50ca70144b713ece30f8c0a0a3790fb86e748e39825b59834a4082d8503",
+      "bytes": 249074
+    },
+    "selected_models/v048/val_predictions.npy": {
+      "sha256": "c263d826b26a7990636d9fa919cdb736d3c680380eca56d8b3452c6a86f55862",
+      "bytes": 59456
+    },
+    "selected_models/v048/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v052/best_checkpoint.pt": {
+      "sha256": "25a93fff210f820ed54b5b206dc9594dbea894306ae0139aeb94db2004fa8f30",
+      "bytes": 113788
+    },
+    "selected_models/v052/config_snapshot.json": {
+      "sha256": "04023107ec149fee0a9113798f278332d6f39c8e8fa37e65d033d67bdaaa2e96",
+      "bytes": 2717
+    },
+    "selected_models/v052/evaluation_metrics.csv": {
+      "sha256": "cbabb63731fa3947fd83795c6debb869325afd5d866a5fd47727f51ef384b9b2",
+      "bytes": 114
+    },
+    "selected_models/v052/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v052/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "e6e0323b8e847248c8539d94cd37a0e049e9f95483a5471a4647e8034be97e94",
+      "bytes": 324
+    },
+    "selected_models/v052/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "0381f560243084b3ae9bda5b5a76b32250b345b1cfa6c0da670affe74c926e50",
+      "bytes": 314
+    },
+    "selected_models/v052/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "a99b34b3fc1b54f48879ed4615bb1950a193761c29a63a6f45c2ed771de33db0",
+      "bytes": 1169
+    },
+    "selected_models/v052/heldout_test_predictions.npy": {
+      "sha256": "4c7ea28574f6828964ebeef9878ba5768fd22ec4cb9577650f73517d071199ed",
+      "bytes": 181120
+    },
+    "selected_models/v052/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v052/training_history.csv": {
+      "sha256": "f90498735e592103188ea7ed8358b73d7e6fa508d0d571d7a993933babf3ea39",
+      "bytes": 249032
+    },
+    "selected_models/v052/val_predictions.npy": {
+      "sha256": "1ecf444f08301a45aadc3d97915e558a5b5a58fffe81cc541a7f2a16df7d0da7",
+      "bytes": 59456
+    },
+    "selected_models/v052/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v056/best_checkpoint.pt": {
+      "sha256": "a340416914e93d8055d759b4d883929e992a28d867e3e79214fca0dced5bbe43",
+      "bytes": 113788
+    },
+    "selected_models/v056/config_snapshot.json": {
+      "sha256": "5d08224cf8cfbaac950490fbd055096417a33468dd298c54ce257e154a6d24c7",
+      "bytes": 2718
+    },
+    "selected_models/v056/evaluation_metrics.csv": {
+      "sha256": "6135d6f92068f8817fd9993d1906b8b0604ccc532e2e07543a09ff3aab5534ee",
+      "bytes": 114
+    },
+    "selected_models/v056/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v056/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "added677530419e327d97159f621530eda2b8239b8dda0abed3efd458a104414",
+      "bytes": 326
+    },
+    "selected_models/v056/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "e180426b7c13aeff557dc2ff80cc0084f09d35c307dcf8aa1d9867b5ab1aef22",
+      "bytes": 313
+    },
+    "selected_models/v056/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "cb730bb20539a74bf67c3e58b99083d75254b98c53fed0e614f29071e2125a81",
+      "bytes": 1105
+    },
+    "selected_models/v056/heldout_test_predictions.npy": {
+      "sha256": "bfefdbe852656eaa50279d30710e9f0bd755a706e3805db8ab4a059f4ab7c04b",
+      "bytes": 181120
+    },
+    "selected_models/v056/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v056/training_history.csv": {
+      "sha256": "3998e8ffb54c53c635f795eae5fc24ec088b016651034217841fa45517785533",
+      "bytes": 248973
+    },
+    "selected_models/v056/val_predictions.npy": {
+      "sha256": "c63b3e154644cf364d96904afb114a0157f44011a5245c4915bc812312d75b74",
+      "bytes": 59456
+    },
+    "selected_models/v056/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v060/best_checkpoint.pt": {
+      "sha256": "5cecbe7235205fe43ff1045606598aa2b40cd4c484f08810c8a7d24491150607",
+      "bytes": 356540
+    },
+    "selected_models/v060/config_snapshot.json": {
+      "sha256": "45740219a0cebada021154e01763fb49c7fd3ac0df07db4013a8fc47d09f7c6a",
+      "bytes": 2717
+    },
+    "selected_models/v060/evaluation_metrics.csv": {
+      "sha256": "42a9406a86c4dd0430214c2b3ec18f640e057ad3570f1636c2cf99afa9963ff2",
+      "bytes": 114
+    },
+    "selected_models/v060/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v060/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "1b9a6ab41b001bcc05373319c3c8a0a7dea15b576afb8678db7b5abdc1c3af6d",
+      "bytes": 322
+    },
+    "selected_models/v060/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "ec1fffe0dfa345bf47737930ba4f611c07d939685871b92604f345e3f7164436",
+      "bytes": 316
+    },
+    "selected_models/v060/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "2cc346f51dcdecaefec858284a7124bb9dab3a629c6567128584a0c1048f4f71",
+      "bytes": 1177
+    },
+    "selected_models/v060/heldout_test_predictions.npy": {
+      "sha256": "19b6412f9b9d93662139bea991ec7959bbba8cb752d2b9dfabc53e1baa4b859c",
+      "bytes": 181120
+    },
+    "selected_models/v060/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v060/training_history.csv": {
+      "sha256": "9f650aaf2dac8156bd788d121abe7669fb409e09d22a1b034230068c51724438",
+      "bytes": 249002
+    },
+    "selected_models/v060/val_predictions.npy": {
+      "sha256": "2e92578863748bcceba05a846ef11cc44079fa910530f80d61d19144f0cadc3f",
+      "bytes": 59456
+    },
+    "selected_models/v060/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v064/best_checkpoint.pt": {
+      "sha256": "2c708b794e1b0b12007a22876ec0eff6bbc810141c1afbaf0268ae94e51ae73a",
+      "bytes": 356540
+    },
+    "selected_models/v064/config_snapshot.json": {
+      "sha256": "d6f6a945b89c209432519fef7ac5a9431c4b62f8407117257191bdf3175c0348",
+      "bytes": 2717
+    },
+    "selected_models/v064/evaluation_metrics.csv": {
+      "sha256": "a5b8a6459ef9ec0203fe1a91b6eb9691e6924de880d8ab645f44a0be495554f9",
+      "bytes": 114
+    },
+    "selected_models/v064/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v064/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "973a3e69348cf0d343450ffd0aa98e7eef6fc4d77d42220f5860f83b06fc399b",
+      "bytes": 312
+    },
+    "selected_models/v064/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "6dcaab253f08570f34ba0bf518282bd41ec1e205d62cf5dad91344b4d41a76ee",
+      "bytes": 317
+    },
+    "selected_models/v064/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "5221bf26beccb3890cad853ae5b624b0bf450c922b4893877560e1e15082a944",
+      "bytes": 1207
+    },
+    "selected_models/v064/heldout_test_predictions.npy": {
+      "sha256": "dc930917b2bb561140a45d1ea6a6d770644279804566e33e916b5af554b01eab",
+      "bytes": 181120
+    },
+    "selected_models/v064/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v064/training_history.csv": {
+      "sha256": "1277fecfa9b7575d52e49eccb187643fca57d93c2ba4936bbe3e44e5805e4dd2",
+      "bytes": 249087
+    },
+    "selected_models/v064/val_predictions.npy": {
+      "sha256": "a066c67dc79557aa01c7a9ea955554ce17c60668b2dd3f805db141f9670c47d0",
+      "bytes": 59456
+    },
+    "selected_models/v064/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v068/best_checkpoint.pt": {
+      "sha256": "3a080503c4299a939057c35251e2e94700f23f069ab93e19840a3128da2a96b1",
+      "bytes": 356540
+    },
+    "selected_models/v068/config_snapshot.json": {
+      "sha256": "b5852d862205cbabd6b9060614eb0291c1501187727a15676db273d0e84712ef",
+      "bytes": 2717
+    },
+    "selected_models/v068/evaluation_metrics.csv": {
+      "sha256": "e08403b6d1690c5753a9a5de25d64e7d34a874f47fb5a8ebb4d142d706797db5",
+      "bytes": 113
+    },
+    "selected_models/v068/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v068/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "d93fe4d4ec6160b771196ef2d5ad4e44f69266cbae881ff138298c80fb0fd04d",
+      "bytes": 322
+    },
+    "selected_models/v068/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "c7c4efe2aee9d56301447c17dd9467ed9b4ef26e5ab06d00e649aaa8f1fbe5b2",
+      "bytes": 321
+    },
+    "selected_models/v068/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "c5f18d0b61a25c68a3842d0452e83b592991c6e90fca31d993d35a489f23df54",
+      "bytes": 1171
+    },
+    "selected_models/v068/heldout_test_predictions.npy": {
+      "sha256": "9e7142d5c44e08b3262c790d055edfd8d6e478cf228681489c21600847b089aa",
+      "bytes": 181120
+    },
+    "selected_models/v068/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v068/training_history.csv": {
+      "sha256": "7694f8bac67ca05193d3525132e5ca29230d3b47c12a5711023dd9e648a76cf8",
+      "bytes": 242705
+    },
+    "selected_models/v068/val_predictions.npy": {
+      "sha256": "d6ef8e905d64d43bb10ebee016a7481165ecd00031b50d38b9b995465acfc63c",
+      "bytes": 59456
+    },
+    "selected_models/v068/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v072/best_checkpoint.pt": {
+      "sha256": "d3b7da8673caf4af79c1a1ac0c416085720dcb12557a0429e1a5d89dbb2c6881",
+      "bytes": 356540
+    },
+    "selected_models/v072/config_snapshot.json": {
+      "sha256": "9e1cb5692cd37f89cc7bc46987b7a1d50487a6764ca2c840a43f339fcc96dbf1",
+      "bytes": 2703
+    },
+    "selected_models/v072/evaluation_metrics.csv": {
+      "sha256": "1cde0c22ce8db1d7382fd962dd66f72507b79965f7d173296b8c5c928c2909b5",
+      "bytes": 114
+    },
+    "selected_models/v072/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v072/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "4da4c60878e24de72919378cd0a2060c83ceb8ab0aca0e9f5c77138870ce188f",
+      "bytes": 325
+    },
+    "selected_models/v072/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "2cd762ece814301bfe26bbb7bd7504067072a611f25e7bbbdbc6cde2ab2c7465",
+      "bytes": 326
+    },
+    "selected_models/v072/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "2dae8be3a21265655b963cf3255a0678eef9dd4211eec008a229201d5e96c954",
+      "bytes": 1234
+    },
+    "selected_models/v072/heldout_test_predictions.npy": {
+      "sha256": "0bb872dcdc55162db60f236237b789945dec7df43afcc1101bb99f0ce13bc3ca",
+      "bytes": 181120
+    },
+    "selected_models/v072/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v072/training_history.csv": {
+      "sha256": "e3251e1d9a331102f870fa901fbe13b504b762baabeaf927d500e8e71e7f4c6f",
+      "bytes": 249026
+    },
+    "selected_models/v072/val_predictions.npy": {
+      "sha256": "12e4912c5d45db7e67990a60bfff324434606f50e396e3346b314ab3e4cf34aa",
+      "bytes": 59456
+    },
+    "selected_models/v072/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v076/best_checkpoint.pt": {
+      "sha256": "15983bc017fce5d165a848410e537fd51e41881662ebfef351733f03706887b0",
+      "bytes": 356540
+    },
+    "selected_models/v076/config_snapshot.json": {
+      "sha256": "36cb28865c773408ec13cd91b4c38234aad23822a5e1451d29bd2e60f4c3685a",
+      "bytes": 2716
+    },
+    "selected_models/v076/evaluation_metrics.csv": {
+      "sha256": "041ae48c27dd2072e0b7daf851ffa0aeeb26a46dc8bb77e8ad9a81a5b6108c78",
+      "bytes": 114
+    },
+    "selected_models/v076/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v076/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "42ed5059946f4abbe069878351a60d3b94ff118b4d49181b12215b619497a972",
+      "bytes": 327
+    },
+    "selected_models/v076/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "636636ebfb4f049b572764438c1d43820c4aeaccc74b07c94d2ff0a76d78f5d9",
+      "bytes": 338
+    },
+    "selected_models/v076/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "67bbd6df0a7332d345d8f55860843be8418f3c946593ff8ad518e648bb8eb962",
+      "bytes": 1406
+    },
+    "selected_models/v076/heldout_test_predictions.npy": {
+      "sha256": "8d59af55ba91e4e11c942b8a8a5ab2a5ba4d79ce9284ea5893b155e81d0f258b",
+      "bytes": 181120
+    },
+    "selected_models/v076/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v076/training_history.csv": {
+      "sha256": "44e8df5308b13e4817284c863d7a6921d63122db0f35f11203364a1b70dbef4f",
+      "bytes": 225491
+    },
+    "selected_models/v076/val_predictions.npy": {
+      "sha256": "91149eb1440f6d802d3ff3dcf3d6e7c29fab8718b0deedd447d22b9c6ad3a0d9",
+      "bytes": 59456
+    },
+    "selected_models/v076/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v080/best_checkpoint.pt": {
+      "sha256": "7997f4eb008a39c51ae450b3cc6697db7e3c60df346ab9dde70aa60fc56ada20",
+      "bytes": 356540
+    },
+    "selected_models/v080/config_snapshot.json": {
+      "sha256": "9accd77d21e0e5652aa5cb6c90481e755f0c2159e7e022222c5186d16c3eb525",
+      "bytes": 2717
+    },
+    "selected_models/v080/evaluation_metrics.csv": {
+      "sha256": "89fcee1ec677047c0471cd5a4de64438a34f0fff09da02bec95bd2c8d01ea633",
+      "bytes": 113
+    },
+    "selected_models/v080/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v080/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "f8c7dfdadc180c9f3a512078e655d6f9b18dce619067e16027fc85e39f8807bd",
+      "bytes": 329
+    },
+    "selected_models/v080/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "81174a74db166fb720ee30c4bab4ddfeb00ced96e9fce027922d9e6af000641b",
+      "bytes": 343
+    },
+    "selected_models/v080/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "f005a8e2d8645310a4775b4626f97705bd13be03cd94c92fb5a842b127c79fb4",
+      "bytes": 1470
+    },
+    "selected_models/v080/heldout_test_predictions.npy": {
+      "sha256": "8d492fa5c591572e5a6f59210a817b43d63ed8c9cdc3070f8aac02f689f6d4ed",
+      "bytes": 181120
+    },
+    "selected_models/v080/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v080/training_history.csv": {
+      "sha256": "7040a65504aa990a59da7701bc684cdca36ebbfca3e6fadd329783cb4fdd28ae",
+      "bytes": 233997
+    },
+    "selected_models/v080/val_predictions.npy": {
+      "sha256": "def955e4e1de468ccc75b0ba2c4eec920dcc32991552b9cec8cfec12db2cc0d6",
+      "bytes": 59456
+    },
+    "selected_models/v080/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v084/best_checkpoint.pt": {
+      "sha256": "ec0ee71488ce3da918e81e563586c89d58646d0f88e60b75fe7a3108e10aabdf",
+      "bytes": 356540
+    },
+    "selected_models/v084/config_snapshot.json": {
+      "sha256": "8ba69796c2eebba6e0c2ddeae41e98f983f1b5e4b681b53f888ef9ee001e8430",
+      "bytes": 2717
+    },
+    "selected_models/v084/evaluation_metrics.csv": {
+      "sha256": "1093f77d1790e75ca6c13fd14d6427146e4dbe56e9507f98550e305fc7377f73",
+      "bytes": 113
+    },
+    "selected_models/v084/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v084/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "8c280ba01711485f92539df6401084ad110c357916bcb10660022d34d1c31c96",
+      "bytes": 320
+    },
+    "selected_models/v084/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "3d159e8a912b243282e9bcfd54634bd4c6a934a96cb78b2668c9586ef3e68be4",
+      "bytes": 354
+    },
+    "selected_models/v084/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "b37e3ecd540ccc0644706b63b7c9af9caa4703720944779f12d6594ca6a18cd6",
+      "bytes": 1637
+    },
+    "selected_models/v084/heldout_test_predictions.npy": {
+      "sha256": "899af1e15e8c390e20939046ea8a8db1a112cb6ac7ad24594e8460de78ce983d",
+      "bytes": 181120
+    },
+    "selected_models/v084/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v084/training_history.csv": {
+      "sha256": "51cd9fe6e78f71df6b80609538997af56c4e2663df002e23a3d0871e835ca2ae",
+      "bytes": 208102
+    },
+    "selected_models/v084/val_predictions.npy": {
+      "sha256": "6c2a39ef67ff34396612897f19e9d5cfe1511f12df7c04fc5bb69986cd2ffc67",
+      "bytes": 59456
+    },
+    "selected_models/v084/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v088/best_checkpoint.pt": {
+      "sha256": "68ad1313d2a36417ffc257eee3c2aee284050448f99c811aa1aff6f90df0810a",
+      "bytes": 356540
+    },
+    "selected_models/v088/config_snapshot.json": {
+      "sha256": "cb41656eaa723f148c2e00a948f0c450027e70e16544df7dbc962a1bcb239c8d",
+      "bytes": 2717
+    },
+    "selected_models/v088/evaluation_metrics.csv": {
+      "sha256": "775cadc45a7faed7bd729ec5571283232c2df8290d3a31f5042455fa8792e039",
+      "bytes": 112
+    },
+    "selected_models/v088/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v088/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "b29c784bc704b021a335ed355131eb06bbca7024f1dc89c977cf6200c22d2547",
+      "bytes": 344
+    },
+    "selected_models/v088/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "29f57bd484c0a4d23675d9d1a5413f94beaddff9b59a5c6ce9c61d078959590d",
+      "bytes": 366
+    },
+    "selected_models/v088/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "530998be1c5b299bd531136aa76376c401c96d168fb061d494df75b2cb55de51",
+      "bytes": 1640
+    },
+    "selected_models/v088/heldout_test_predictions.npy": {
+      "sha256": "cb7df0a773db456ac8191f78939934a5efd97fad085dcd981e625733695a554b",
+      "bytes": 181120
+    },
+    "selected_models/v088/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v088/training_history.csv": {
+      "sha256": "eac8913d81cb52fadacfd7385b10af26021e88fd86204b619c4583a9d5cd33f5",
+      "bytes": 234123
+    },
+    "selected_models/v088/val_predictions.npy": {
+      "sha256": "5486213e5cc0a2b728b55afa66a831c0c545e6cf8d58b4b105bf90edc02ff1a7",
+      "bytes": 59456
+    },
+    "selected_models/v088/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "selected_models/v092/best_checkpoint.pt": {
+      "sha256": "8999506e2d4d3540853a16acad3dff0da49a1fc5c1fd16e5a082c799ca88a96c",
+      "bytes": 356540
+    },
+    "selected_models/v092/config_snapshot.json": {
+      "sha256": "51eb36d144dda57801ce1d58709db4bd60fa499909c18dfb0b78df9a74c00017",
+      "bytes": 2717
+    },
+    "selected_models/v092/evaluation_metrics.csv": {
+      "sha256": "1fa66070ccd46a330ca730efba3f5dbf130babe885d3919e6675e78e1d112a97",
+      "bytes": 115
+    },
+    "selected_models/v092/gas_label_map.json": {
+      "sha256": "e1d60e5f7c8ae04e660e63adc21b71cb6adb1531c1167c70cdd211c39b2d8872",
+      "bytes": 107
+    },
+    "selected_models/v092/heldout_test_gas_accuracy_by_gas.csv": {
+      "sha256": "e32cdcfd2704020389f1a254877007084f401267042de01a4bad9d197322b70d",
+      "bytes": 336
+    },
+    "selected_models/v092/heldout_test_gas_confusion_matrix.csv": {
+      "sha256": "5d78bfc59e98db3975947a574bd4f85fd1cdce7f55f5e5a4b30ef452c94a9404",
+      "bytes": 372
+    },
+    "selected_models/v092/heldout_test_gas_confusion_matrix_normalized.csv": {
+      "sha256": "c34145f8798c9caedade1c696e776d5643998bcedc3146fd2336b30b4e75a9b2",
+      "bytes": 1672
+    },
+    "selected_models/v092/heldout_test_predictions.npy": {
+      "sha256": "72ce3c18ff44b00d3de696f67fe02eb63347039e7a9640a94307af5e2780c6d3",
+      "bytes": 181120
+    },
+    "selected_models/v092/heldout_test_true_labels.npy": {
+      "sha256": "96e18a63411c5b3950fcfc3e66e5731e78d5cd99b68319cec962172003e48cf4",
+      "bytes": 181120
+    },
+    "selected_models/v092/training_history.csv": {
+      "sha256": "998e841e309508a412bbbee66b4874418f761d4d4c677a37a5b0a324bd8c1dae",
+      "bytes": 231970
+    },
+    "selected_models/v092/val_predictions.npy": {
+      "sha256": "5f1011725e88a67a45189027b0fe53087b799912aab5ec6bb4f45cc243f0475a",
+      "bytes": 59456
+    },
+    "selected_models/v092/val_true_labels.npy": {
+      "sha256": "6b9b93ba8e73c8e33e9d0df9dfffbe3f94c6687661e24352d7d5d288e8e6c99f",
+      "bytes": 59456
+    },
+    "single_vg_summary.csv": {
+      "sha256": "76876df7013d3f322ce42619b4d0ea2a98c42649457c2e8607e0fe3af27df632",
+      "bytes": 32306
+    },
+    "single_vg_summary.json": {
+      "sha256": "0d0396f36aeaf042620c9e161e0636cfcc7111d1b32079a88a7fe731060180b6",
+      "bytes": 58225
+    }
+  }
+}

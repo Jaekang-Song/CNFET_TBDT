@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.pt binary
+*.npy binary
+*.npz binary
+*.png binary
+*.zip binary
+# Preserve archived CSV checksums across Git checkouts.
+results/single_vg/selected_models/*/training_history.csv -text

@@ -1,0 +1,112 @@
+{
+  "CONFIG_NAME": "Config_TBDT_Single_Vg",
+  "DATASET": {
+    "name": "Config_TBDT_chemical_gas",
+    "data_dir": "TBDT_Dataset/0_chemical_gas"
+  },
+  "PREPROCESS": {
+    "average_mode": 0,
+    "cut_window": {
+      "t_start": 14,
+      "t_end": 56,
+      "v_start": 11,
+      "v_end": 107
+    }
+  },
+  "SELECTION": {
+    "train_rh_values": [
+      0
+    ],
+    "heldout_test_rh_values": [
+      0,
+      30,
+      50
+    ],
+    "train_val_split": {
+      "val_size": 0.5,
+      "random_state": 0
+    }
+  },
+  "MODEL": {
+    "model_name": "CNN1D_TBDT",
+    "dim_v": 1,
+    "num_layers": 1,
+    "vg_groups": 1,
+    "gn_groups": 8,
+    "kernel_size": 5,
+    "classifier_head": "cosine",
+    "cosine_scale": 16,
+    "learnable_cosine_scale": false,
+    "vg_group_dropout_p": 0,
+    "use_late_mix": true,
+    "hidden_size": 88,
+    "dropout_p": 0.35,
+    "dropout2d_p": 0.075,
+    "pool_mode": "avg"
+  },
+  "TRAINING": {
+    "batch_size": 128,
+    "num_epochs": 200,
+    "patience": 100,
+    "num_workers": 0,
+    "selection_metric": "val_acc",
+    "early_stop_metric": "val_acc",
+    "early_stop_min_delta": 0.01,
+    "early_stop_baseline": 90,
+    "learning_rate": 0.002,
+    "weight_decay": 0.003,
+    "vg_input_dropout_p": 0.0,
+    "vg_input_dropout_num_groups": 1,
+    "random_seed": 0,
+    "use_class_balanced_sampler": true
+  },
+  "OUTPUT": {
+    "models_dir": "results/models/tbdt_single_vg",
+    "runs_dirname": "runs"
+  },
+  "VG_INDICES": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    92
+  ],
+  "PARAMETER_GRID": {
+    "hidden_size": [
+      24,
+      48,
+      88
+    ],
+    "learning_rate": [
+      0.001,
+      0.002
+    ],
+    "weight_decay": [
+      0.001,
+      0.003
+    ],
+    "dropout_p": [
+      0.15,
+      0.35
+    ]
+  }
+}

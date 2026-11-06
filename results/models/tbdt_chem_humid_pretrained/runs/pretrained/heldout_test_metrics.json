@@ -1,0 +1,35 @@
+{
+  "task": "Chem_humid",
+  "evaluated_split": "heldout_test",
+  "task_reporting_rh": [
+    30
+  ],
+  "task_heldout_accuracy": 93.64764923402007,
+  "task_samples": 7572,
+  "task_correct": 7091,
+  "all_heldout": {
+    "samples": 22624,
+    "correct": 21331,
+    "accuracy": 94.28483026874116,
+    "by_rh": {
+      "50": {
+        "samples": 7545,
+        "correct": 7051,
+        "accuracy": 93.45261762756792
+      },
+      "30": {
+        "samples": 7572,
+        "correct": 7091,
+        "accuracy": 93.64764923402007
+      },
+      "0": {
+        "samples": 7507,
+        "correct": 7189,
+        "accuracy": 95.76395364326629
+      }
+    }
+  },
+  "best_epoch": 192,
+  "all_before_after_tensors_identical": true,
+  "historical_model_tensors_identical": true
+}

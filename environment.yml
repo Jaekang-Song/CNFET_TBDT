@@ -1,0 +1,32 @@
+name: cnfet_tbdt
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+  - nodefaults
+dependencies:
+  # Python, directly imported packages, and the notebook runtime.
+  - python==3.9.25
+  - pytorch=2.4.1=*cuda11.8*
+  - numpy==1.26.4
+  - pandas==2.3.3
+  - scikit-learn==1.5.1
+  - matplotlib==3.9.2
+  - seaborn==0.13.2
+  - natsort==8.4.0
+  - tqdm==4.67.1
+  - shap==0.47.2
+  - ipython==8.15.0
+  - jupyterlab==4.4.7
+  - notebook==7.4.5
+  - ipykernel==6.30.1
+  # Numerical dependencies pinned to the recorded versions.
+  - scipy==1.13.1
+  - numba==0.60.0
+  - llvmlite==0.43.0
+  - joblib==1.5.2
+  - threadpoolctl==3.5.0
+  - mkl==2023.1.0
+  - intel-openmp==2023.1.0
+  # CUDA runtime included; the code uses the CPU when CUDA is unavailable.
+  - pytorch-cuda=11.8

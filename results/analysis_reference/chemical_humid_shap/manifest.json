@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "method": "pointwise_gradient_shap",
+  "model_state_sha256": "afbf29196892e5c6243a406d408151a78af2cfcaf08683834dcfaebfa2509392",
+  "background_size": 8192,
+  "eval_size": 7572,
+  "background_rh": [
+    0,
+    50
+  ],
+  "evaluation_rh": [
+    30
+  ],
+  "background_split": "training/train",
+  "evaluation_split": "heldout_test",
+  "background_input_sha256": "e4fc3e0f292205b94cc2af40a33bbaf821715aa319fc1ca49844ac95712cbb3e",
+  "evaluation_input_sha256": "9a2d52f822712bd5e3ba1d590aec763b27ef16535b855e0208ad787d11436a82",
+  "gas_label_map": {
+    "C3H6O": 0,
+    "C6H6": 1,
+    "CO2": 2,
+    "H2": 3,
+    "H2S": 4,
+    "CH3OH": 5,
+    "NO2": 6,
+    "NH3": 7,
+    "C3H7OH": 8,
+    "C3H8": 9
+  },
+  "class_counts": [
+    755,
+    768,
+    756,
+    752,
+    765,
+    757,
+    760,
+    764,
+    757,
+    738
+  ],
+  "input_shape": [
+    42,
+    96
+  ],
+  "nsamples": 200,
+  "eval_batch_size": 256,
+  "selection_seed": 0,
+  "aggregation": "mean_samples_abs_within_gas_then_equal_gas_mean",
+  "vg_bin_size": 8,
+  "time_bin_size": 2,
+  "time_display": "time >= 0; voltage profile averages all 42 model input times",
+  "plot_normalization": "divide each curve by its maximum after averaging",
+  "integration_seed": "not recorded for the archived computation; recomputation uses the configured seed",
+  "selection_verification": {
+    "background_same_rng_order": true,
+    "evaluation_same_rng_order": true
+  },
+  "files": {
+    "axes.npz": "df67244f41e093ac096b2057df9a2674d1246c1c5cb38d2895fe1f4c6a7c0ce5",
+    "background_metadata.csv": "6a0ca05bce8d5187c7d9071d69654b94e2e003b5774e46cafd74fadbebbd894c",
+    "eval_labels.npy": "ad6432a6122effe250bb4a949014e964f4499659bfdd660215b7b393ad3d6c9b",
+    "eval_metadata.csv": "e6633f54d02ce924cdd95d8b10176298ed5f8bc4b1283cc30f643486ad0db519",
+    "pointwise.npz": "5962e79b49ba12877aa8b1c19e60d78a1953ab020d1d59009b5dd12167b6fbdd"
+  }
+}

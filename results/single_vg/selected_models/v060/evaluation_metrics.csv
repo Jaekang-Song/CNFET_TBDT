@@ -1,0 +1,3 @@
+split,model_variant,gas_accuracy,subclass_accuracy
+val,raw,95.14563106796116,
+heldout_test,raw,80.78147100424329,

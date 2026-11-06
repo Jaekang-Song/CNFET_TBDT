@@ -1,0 +1,74 @@
+{
+  "config": {
+    "ANALYSIS": {
+      "metric_samples_per_gas": 500,
+      "mi_neighbors": 5,
+      "random_seed": 0,
+      "shap_background_size": 256,
+      "shap_batch_size": 64,
+      "shap_device": "auto",
+      "shap_samples_per_rh": 64
+    },
+    "CONFIG_NAME": "Config_TBDT_Chem_humid_pretrained",
+    "DATASET": {
+      "data_dir": "TBDT_Dataset/0_chemical_gas",
+      "name": "Config_TBDT_chemical_gas"
+    },
+    "MODEL": {
+      "cosine_scale": 16,
+      "dim_v": 96,
+      "dropout2d_p": 0.075,
+      "dropout_p": 0.35,
+      "gn_groups": 8,
+      "hidden_size": 88,
+      "kernel_size": 5,
+      "model_name": "CNN1D_TBDT",
+      "num_layers": 1,
+      "vg_group_dropout_p": 0,
+      "vg_groups": 8
+    },
+    "OUTPUT": {
+      "models_dir": "results/models/tbdt_chem_humid_pretrained",
+      "runs_dirname": "runs"
+    },
+    "PREPROCESS": {
+      "average_mode": 0,
+      "cut_window": {
+        "t_end": 56,
+        "t_start": 14,
+        "v_end": 107,
+        "v_start": 11
+      }
+    },
+    "SELECTION": {
+      "heldout_test_rh_values": [
+        0,
+        30,
+        50
+      ],
+      "train_rh_values": [
+        0,
+        50
+      ],
+      "train_val_split": {
+        "random_state": 0,
+        "val_size": 0.5
+      }
+    },
+    "TRAINING": {
+      "batch_size": 128,
+      "early_stop_baseline": 90,
+      "early_stop_min_delta": 0.01,
+      "learning_rate": 0.002,
+      "num_epochs": 200,
+      "num_workers": 0,
+      "patience": 100,
+      "random_seed": 0,
+      "use_class_balanced_sampler": true,
+      "vg_input_dropout_num_groups": 8,
+      "vg_input_dropout_p": 0.3,
+      "weight_decay": 0.003
+    }
+  },
+  "run_name": "pretrained"
+}

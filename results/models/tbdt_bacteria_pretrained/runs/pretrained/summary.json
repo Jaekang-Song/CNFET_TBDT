@@ -1,0 +1,8 @@
+{
+  "best_epoch": 117,
+  "selected_checkpoint_reason": "best_val_acc",
+  "selection_metric": "val_acc",
+  "selection_metric_value": 99.81243301178992,
+  "validation_accuracy": 99.81243301178992,
+  "validation_loss": 0.019922552768057183
+}

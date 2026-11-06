@@ -1,0 +1,44 @@
+# Dataset
+TBDT_Dataset/
+TBDT_Dataset*.zip
+
+# Generated runs and notebook figures (the four pretrained runs are explicitly tracked)
+results/models/*
+results/analysis/
+figures/confusion_matrices/
+figures/analysis/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+!results/models/tbdt_chem_dry_pretrained/
+results/models/tbdt_chem_dry_pretrained/*
+!results/models/tbdt_chem_dry_pretrained/runs/
+results/models/tbdt_chem_dry_pretrained/runs/*
+!results/models/tbdt_chem_dry_pretrained/runs/pretrained/
+
+!results/models/tbdt_chem_humid_pretrained/
+results/models/tbdt_chem_humid_pretrained/*
+!results/models/tbdt_chem_humid_pretrained/runs/
+results/models/tbdt_chem_humid_pretrained/runs/*
+!results/models/tbdt_chem_humid_pretrained/runs/pretrained/
+
+!results/models/tbdt_solvent_pretrained/
+results/models/tbdt_solvent_pretrained/*
+!results/models/tbdt_solvent_pretrained/runs/
+results/models/tbdt_solvent_pretrained/runs/*
+!results/models/tbdt_solvent_pretrained/runs/pretrained/
+
+!results/models/tbdt_bacteria_pretrained/
+results/models/tbdt_bacteria_pretrained/*
+!results/models/tbdt_bacteria_pretrained/runs/
+results/models/tbdt_bacteria_pretrained/runs/*
+!results/models/tbdt_bacteria_pretrained/runs/pretrained/

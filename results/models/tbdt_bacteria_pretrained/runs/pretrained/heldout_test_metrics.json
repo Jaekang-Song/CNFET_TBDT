@@ -1,0 +1,25 @@
+{
+  "task": "Bacteria",
+  "evaluated_split": "heldout_test",
+  "task_reporting_rh": [
+    "A"
+  ],
+  "task_heldout_accuracy": 97.49412685982773,
+  "task_samples": 2554,
+  "task_correct": 2490,
+  "all_heldout": {
+    "samples": 2554,
+    "correct": 2490,
+    "accuracy": 97.49412685982773,
+    "by_rh": {
+      "A": {
+        "samples": 2554,
+        "correct": 2490,
+        "accuracy": 97.49412685982773
+      }
+    }
+  },
+  "best_epoch": 117,
+  "all_before_after_tensors_identical": true,
+  "historical_model_tensors_identical": true
+}
